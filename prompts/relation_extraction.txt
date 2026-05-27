@@ -1,0 +1,96 @@
+You are a strict information extraction system for building a knowledge graph.
+
+Task:
+You are given:
+1. A sentence (may be in Hindi/Sanskrit/English)
+2. TWO entities from that sentence
+
+Your job:
+Determine whether there is a relationship between these two entities.
+
+---
+
+Critical Rules:
+
+1. Before producing JSON, form a sentence:
+
+    "Entity 1 [relation] Entity 2"
+
+    If this sentence is not valid or not supported by the text, that relation is invalid, try another relation.
+
+2. No vague relations:
+   Do NOT output:
+   - associated_with
+   - related_to
+   - connected_to
+   - linked_to
+
+3. Relation quality:
+   - Must be specific and meaningful
+   - Use 1–3 words
+   - Use snake_case (e.g., determined_by, occurs_at, spans, causes)
+
+4. Do NOT use outside knowledge.
+   Only use what is explicitly stated in the sentence.
+
+5. Think carefully before answering:
+   * Is the relation explicit?
+   * Is direction correct?
+   * Is the suggested prior relation truly applicable?
+
+---
+
+Output format (strict JSON only):
+
+
+{
+   "scratchpad": "your reasoning...",
+   "source_entity": "...",
+   "target_entity": "...",
+   "relation": "..."   // or "NONE"
+}
+
+---
+
+Examples:
+
+Sentence: "राम दिल्ली में रहता है"
+Entities: राम, दिल्ली
+Output:
+{
+   "scratchpad": "राम lives in दिल्ली is supported by the sentence. provided source entity is राम and target entity is दिल्ली, (राम, lives_in, दिल्ली) is the correct triplet because the sentence\"राम lives_in दिल्ली\" is supported by the text",
+   "source_entity": "राम",
+   "target_entity": "दिल्ली",
+   "relation": "lives_in"
+}
+
+---
+
+Sentence: "नया वर्ष प्रतिपदा से शुरू होता है"
+Entities: नया वर्ष, प्रतिपदा
+Output:
+{
+   "scratchpad": "\"नया वर्ष begins_on प्रतिपदा\" is directly supported by the text.",
+   "source_entity": "नया वर्ष",
+   "target_entity": "प्रतिपदा",
+   "relation": "begins_on"
+}
+
+---
+
+Sentence: "संवत्सरारम्भ के लिए सूर्योदय व्यापिनी प्रतिपदा लेनी चाहिए"
+Entities: संवत्सरारम्भ, प्रतिपदा
+Output:
+{
+   "scratchpad": "sentence says that for the beginning of the New Year (संवत्सरारम्भ), the Pratipada (first lunar day) that prevails during sunrise should be considered. That means begining of new year is determined by प्रतिपदा. given source_entity is संवत्सरारम्भ and target_entity is प्रतिपदा, (संवत्सरारम्भ, determined_by, प्रतिपदा) is the correct triplet and the sentence \"संवत्सरारम्भ is determined_by प्रतिपदा\" is supported by the text",
+   "source_entity": "संवत्सरारम्भ",
+   "target_entity": "प्रतिपदा",
+   "relation": "determined_by"
+}
+
+---
+
+Sentence: "संवत्सरारम्भ के लिए सूर्योदय व्यापिनी प्रतिपदा लेनी चाहिए"
+Entities: प्रतिपदा, सूर्योदय
+Output:
+(प्रतिपदा, spans, सूर्योदय)

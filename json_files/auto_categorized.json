@@ -1,0 +1,3990 @@
+{
+    "कालावयवों": [
+        "measurement_unit",
+        "Time",
+        "measure_quantity",
+        "Concept"
+    ],
+    "द्वादशी व्रत": [
+        "festival",
+        "Activity"
+    ],
+    "जन्म-महोत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "विद्वान व्यक्ति": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "मृत शरीर": [
+        "Body_part"
+    ],
+    "शस्त्र": [
+        "Object"
+    ],
+    "षोडशो-पचार": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "लड़के": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "पोली गाय का दूध": [
+        "Food"
+    ],
+    "समग्र जगत्": [
+        "Geographical_Feature",
+        "abstract_concept",
+        "Concept",
+        "Location",
+        "other"
+    ],
+    "श्रेष्ठ": [
+        "Concept",
+        "attribute"
+    ],
+    "गायन": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "निर्धन वैष्णव": [
+        "Social_Group_&_Role"
+    ],
+    "कार्तिक कृष्णा चतुर्दशी": [
+        "special_date",
+        "date",
+        "Time"
+    ],
+    "मल्लविद्याविदों": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "ॐ यशोदायै नमः": [
+        "Sanskrit_text"
+    ],
+    "अनुचरों": [
+        "Concept",
+        "attribute"
+    ],
+    "शेषनाग": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "स्कन्द‌पुराण": [
+        "Text"
+    ],
+    "भद्रा-रहित समय": [
+        "other",
+        "Time"
+    ],
+    "शोभा": [
+        "Concept",
+        "attribute"
+    ],
+    "नाग पूजा": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "ग्रन्थ": [
+        "Sanskrit_text",
+        "Text"
+    ],
+    "निर्णायक": [
+        "Activity",
+        "Concept",
+        "action_process",
+        "other"
+    ],
+    "मोदक": [
+        "Food"
+    ],
+    "कान की पीडा": [
+        "attribute",
+        "Medical_Concept",
+        "Concept",
+        "symptom_physical",
+        "Emotions"
+    ],
+    "विश्वम्भर": [
+        "Geographical_Feature",
+        "abstract_concept",
+        "Concept",
+        "Location",
+        "other"
+    ],
+    "निम्बार्कसम्प्रदायी": [
+        "Social_Group_&_Role"
+    ],
+    "अगले वर्ष": [
+        "measurement_unit",
+        "Time"
+    ],
+    "मंच": [
+        "Location"
+    ],
+    "पत्र-पुष्पों": [
+        "Object"
+    ],
+    "रामभक्तों के पूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "लोभरहित कुलशील": [
+        "Concept",
+        "attribute"
+    ],
+    "तामस दान": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "प्रकाश-मय": [
+        "Concept",
+        "attribute"
+    ],
+    "कृष्णपक्ष": [
+        "moon_phase",
+        "Time"
+    ],
+    "मेष राशि": [
+        "Celestial_Entity",
+        "Concept",
+        "Time",
+        "measure_quantity",
+        "other"
+    ],
+    "अन्य व्रतों": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "चौथिया": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "भाद्रपद": [
+        "Time",
+        "month"
+    ],
+    "चावलों": [
+        "Food"
+    ],
+    "सुख-शान्ति": [
+        "Emotions"
+    ],
+    "हवन यज्ञ": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "युद्ध": [
+        "Activity"
+    ],
+    "पुष्पित": [
+        "Object"
+    ],
+    "पूर्ण चन्द्र": [
+        "moon_phase",
+        "Time"
+    ],
+    "देवकी-वसुदेव": [
+        "Living_Being",
+        "human_individual"
+    ],
+    "यज्ञोपवीत": [
+        "Object"
+    ],
+    "नन्दनन्दन श्रीकृष्ण": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "मृत्तिका की प्रतिमा": [
+        "Object"
+    ],
+    "प्रयोगों": [
+        "other",
+        "Activity"
+    ],
+    "अभिवर्धमान चन्द्रमा": [
+        "Celestial_Entity"
+    ],
+    "आनन्दयोग": [
+        "Concept",
+        "attribute"
+    ],
+    "फल-पुष्पों": [
+        "Object"
+    ],
+    "गुणों": [
+        "Concept",
+        "attribute"
+    ],
+    "चने": [
+        "Food"
+    ],
+    "गाने-बजाने": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "आलस्यरहित": [
+        "Emotions"
+    ],
+    "प्रकट": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "चन्द्र": [
+        "Celestial_Entity"
+    ],
+    "कालियनाग": [
+        "measurement_unit",
+        "Time"
+    ],
+    "दानव": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "हिंसा": [
+        "other",
+        "Activity"
+    ],
+    "वेदाध्ययनादि": [
+        "Activity"
+    ],
+    "प्रताप": [
+        "Concept",
+        "attribute"
+    ],
+    "गाय का दही": [
+        "Food"
+    ],
+    "मूर्ख व्यक्ति": [
+        "Concept",
+        "attribute"
+    ],
+    "ऐतिहासिकों": [
+        "Concept",
+        "attribute"
+    ],
+    "सुव्यवस्थित": [
+        "Concept",
+        "attribute"
+    ],
+    "पाँच ग्रह": [
+        "Time",
+        "Celestial_Entity",
+        "other"
+    ],
+    "रंगस्थल": [
+        "Location"
+    ],
+    "भाद्रपद मास": [
+        "Time",
+        "month"
+    ],
+    "मणि की प्रतिमा": [
+        "Object"
+    ],
+    "श्रावण मास": [
+        "Time",
+        "month"
+    ],
+    "नृसिंह स्वरूप धारण करने वाले भगवान विष्णु": [
+        "avatar",
+        "Mythical_Entity"
+    ],
+    "जगत् के गुरु": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "ज्वर": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "रोगों": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "कृषकों": [
+        "Social_Group_&_Role"
+    ],
+    "समस्याओं": [
+        "state",
+        "Concept"
+    ],
+    "पूर्ण धार्मिक": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "अनन्तशक्तिमान्": [
+        "Concept",
+        "attribute"
+    ],
+    "वसुदेवजी": [
+        "Living_Being",
+        "human_individual"
+    ],
+    "फलदान": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "धर्मज्ञ": [
+        "Concept",
+        "attribute"
+    ],
+    "गङ्गादशहरे": [
+        "festival",
+        "Activity"
+    ],
+    "पढ़े": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "ब्राह्मणों": [
+        "Social_Group_&_Role"
+    ],
+    "आँवले": [
+        "Food"
+    ],
+    "रक्षक": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "मुख और आँख के रोग": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "पुत्रों": [
+        "Social_Group_&_Role"
+    ],
+    "मूत्रकृच्छ": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "बूँदी के लड्डू": [
+        "Food"
+    ],
+    "चित्र-लिखित प्रतिमा": [
+        "Object"
+    ],
+    "बातों": [
+        "Activity",
+        "mundane_activity",
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "अन्धकारमय": [
+        "Primordial_Element"
+    ],
+    "प्रतिमापूजा": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "द्वादशज्योतिर्लिङ्गों": [
+        "Location"
+    ],
+    "अध्येता": [
+        "Social_Group_&_Role"
+    ],
+    "प्रतीकरूप": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "दानदाताओं": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "असम्भव": [
+        "Concept",
+        "attribute"
+    ],
+    "खीर": [
+        "Food"
+    ],
+    "नेत्ररोगों": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "दुरात्माओं": [
+        "Concept",
+        "attribute"
+    ],
+    "रुचिकारक": [
+        "Emotions"
+    ],
+    "उत्तराषाढा नक्षत्र": [
+        "nakshatra",
+        "Time",
+        "Celestial_Entity"
+    ],
+    "देवतत्त्व": [
+        "Concept",
+        "attribute"
+    ],
+    "तन्मे रोगांश्च शोकांश्च नुद गोमय सर्वदा": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "भाग्यहीनता": [
+        "Concept",
+        "attribute"
+    ],
+    "दीर्घायु": [
+        "Medical_Concept",
+        "Concept",
+        "measure_quantity",
+        "other"
+    ],
+    "हिमालय पर्वत": [
+        "Geographical_Feature",
+        "landform"
+    ],
+    "सप्तमी तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "रक्षाबन्धन": [
+        "ritual_activity",
+        "Activity",
+        "Event"
+    ],
+    "पेड्डू के दर्द": [
+        "attribute",
+        "Medical_Concept",
+        "Concept",
+        "symptom_physical",
+        "Emotions"
+    ],
+    "आधुनिक शिक्षित": [
+        "Concept",
+        "attribute"
+    ],
+    "ताँबे की प्रतिमा": [
+        "Object"
+    ],
+    "वानरों": [
+        "Living_Being",
+        "animal"
+    ],
+    "पौधे": [
+        "plant",
+        "Living_Being"
+    ],
+    "आधिभौतिक स्वरूप": [
+        "Concept",
+        "attribute"
+    ],
+    "पूर्ण अशांति": [
+        "state",
+        "Concept",
+        "Emotions"
+    ],
+    "पैरों": [
+        "Body_part"
+    ],
+    "सुगंध": [
+        "Medical_Concept",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "निश्चित निर्णय": [
+        "Activity",
+        "Concept",
+        "action_process",
+        "other"
+    ],
+    "जन्माष्टमी व्रत": [
+        "festival",
+        "special_date",
+        "Activity",
+        "Time",
+        "date"
+    ],
+    "भूतप्रेत": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "आधुनिक विद्वान": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "मूत्र रुकना": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "पड़नपल्लकों": [
+        "Object"
+    ],
+    "विनय": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "महीने": [
+        "Time",
+        "month"
+    ],
+    "पूर्ण शांति": [
+        "state",
+        "Concept",
+        "Emotions"
+    ],
+    "प्रतिमा पूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "लक्ष्मी जी": [
+        "Sanskrit_text"
+    ],
+    "व्रतों की पुस्तक": [
+        "Sanskrit_text",
+        "Text"
+    ],
+    "कथा-प्रसङ्ग": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "मूत्रों": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "गंगाजल": [
+        "Primordial_Element",
+        "Object"
+    ],
+    "ज्योतिष शास्त्र": [
+        "Social_Group_&_Role"
+    ],
+    "प्राण-रक्षा": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "दाता": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "उत्तराभिमुख": [
+        "knowledge_linguistic",
+        "Location",
+        "Concept"
+    ],
+    "यथासमय": [
+        "other",
+        "Time"
+    ],
+    "घण्टा": [
+        "Time",
+        "Object",
+        "measurement_unit"
+    ],
+    "मिट्टी": [
+        "Primordial_Element"
+    ],
+    "शतपथ ब्राह्मण": [
+        "Text"
+    ],
+    "सुखी": [
+        "Emotions"
+    ],
+    "रूक्ष": [
+        "Concept",
+        "attribute"
+    ],
+    "पूर्ण प्रौढ़ता": [
+        "Concept",
+        "attribute"
+    ],
+    "सूखने": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "सोने की प्रतिमा": [
+        "Object"
+    ],
+    "देवों": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "अवतारों": [
+        "Concept",
+        "Living_Being",
+        "mythical_living_being",
+        "avatar",
+        "knowledge_linguistic",
+        "Mythical_Entity"
+    ],
+    "मिथुन राशि": [
+        "Celestial_Entity",
+        "Concept",
+        "Time",
+        "measure_quantity",
+        "other"
+    ],
+    "शक्तियाँ": [
+        "attribute",
+        "Medical_Concept",
+        "Primordial_Element",
+        "Concept",
+        "other"
+    ],
+    "रोगी": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "नन्दमहोत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "हजारों वर्षों": [
+        "measurement_unit",
+        "Time"
+    ],
+    "प्रेमीजन": [
+        "Living_Being",
+        "human_generic"
+    ],
+    "वस्तुओं": [
+        "Object"
+    ],
+    "नारिकेलादिक फलों": [
+        "Food"
+    ],
+    "चाँदनी": [
+        "Concept",
+        "attribute"
+    ],
+    "चौक": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "योग्य पात्र": [
+        "attribute",
+        "Concept",
+        "Object"
+    ],
+    "दयालु स्वभाव": [
+        "Concept",
+        "attribute"
+    ],
+    "पुष्प-मालाएँ": [
+        "Object"
+    ],
+    "वसुदेव": [
+        "Living_Being",
+        "human_individual"
+    ],
+    "अर्घ्य-दान": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "शरीरधारियों": [
+        "Living_Being",
+        "human_generic"
+    ],
+    "जयन्ती देवी": [
+        "festival",
+        "Activity"
+    ],
+    "रामनवमी व्रत": [
+        "festival",
+        "Activity"
+    ],
+    "बलभद्र": [
+        "Concept",
+        "attribute"
+    ],
+    "स्मरणशक्ति": [
+        "ritual_activity",
+        "Activity",
+        "Emotions"
+    ],
+    "भूषण": [
+        "Object"
+    ],
+    "उदय-व्यापिनी नवमी तिथि": [
+        "Concept",
+        "attribute"
+    ],
+    "अंधकारमय": [
+        "Primordial_Element"
+    ],
+    "सर्वश्रेष्ठ भगवान विष्णु": [
+        "Mythical_Entity",
+        "deity",
+        "Sanskrit_text"
+    ],
+    "मधु": [
+        "season",
+        "Phenomenon",
+        "month",
+        "Time"
+    ],
+    "राजा राम": [
+        "deity",
+        "Living_Being",
+        "mythical_living_being",
+        "Mythical_Entity"
+    ],
+    "श्लोकों": [
+        "Sanskrit_text"
+    ],
+    "भय": [
+        "Emotions"
+    ],
+    "पूजयामि नृसिंह त्वां लक्ष्म्या सह नमोस्तु ते": [
+        "Sanskrit_text"
+    ],
+    "यक्ष": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "प्रकाशमय": [
+        "Primordial_Element"
+    ],
+    "हर्षित": [
+        "Emotions"
+    ],
+    "नाग की प्रतिमा": [
+        "Object"
+    ],
+    "पत्रामृतस्नान": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "शीतकाल": [
+        "season",
+        "Phenomenon"
+    ],
+    "वेद-पठन": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "पूर्णचन्द्र": [
+        "moon_phase",
+        "Time"
+    ],
+    "'योगेश्वराय योगसंभवाय, योगपतये गोविन्दाय नमो नमः'": [
+        "Sanskrit_text"
+    ],
+    "सुगंधित": [
+        "Medical_Concept",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "पाँच वस्तुओं": [
+        "Object"
+    ],
+    "वर्णों": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "महामति प्रह्लाद": [
+        "Concept",
+        "attribute"
+    ],
+    "भूत-प्रेत": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "श्रीराम की प्रतिमा": [
+        "Object"
+    ],
+    "प्रतिमापूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "गुण-धर्मों": [
+        "Concept",
+        "attribute"
+    ],
+    "गंगाजी": [
+        "Geographical_Feature",
+        "water_body"
+    ],
+    "सर्वसमर्थ": [
+        "Concept",
+        "attribute"
+    ],
+    "प्रदेश": [
+        "Location"
+    ],
+    "वसंत": [
+        "season",
+        "Phenomenon"
+    ],
+    "छोटे": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "कुशजल": [
+        "Primordial_Element",
+        "Object"
+    ],
+    "समागम": [
+        "Activity"
+    ],
+    "हनुमान् जी": [
+        "deity",
+        "Living_Being",
+        "mythical_living_being",
+        "Mythical_Entity"
+    ],
+    "आध्यात्मिक": [
+        "abstract_concept",
+        "Concept"
+    ],
+    "व्यतीपात योग": [
+        "measurement_unit",
+        "Time",
+        "mundane_activity",
+        "action_process",
+        "Concept",
+        "Activity"
+    ],
+    "पुराने ज्वर": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "ऐतिहासिक विद्वानों": [
+        "Concept",
+        "attribute"
+    ],
+    "जगद्‌गुरु भगवान विष्णु": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "नागों का पूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "भाई": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "रोगजन्तुनाश": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "कंबल": [
+        "Object"
+    ],
+    "नृसिंहाच्युतदेवेश लक्ष्मीकान्त जगत्पते": [
+        "Sanskrit_text"
+    ],
+    "सफलतापूर्वक": [
+        "Concept",
+        "attribute"
+    ],
+    "भाद्रपद शुक्ल": [
+        "moon_phase",
+        "Time"
+    ],
+    "श्रावण-भाद्रपद": [
+        "Time",
+        "month"
+    ],
+    "स्फटिक की प्रतिमा": [
+        "Object"
+    ],
+    "सुननी": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "शान्त": [
+        "state",
+        "Concept",
+        "Emotions"
+    ],
+    "श्रवण की पूर्णिमा": [
+        "moon_phase",
+        "Time"
+    ],
+    "गाय का गोमूत्र": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "मच्छी": [
+        "Living_Being",
+        "animal"
+    ],
+    "राजाओं": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "तीखा": [
+        "attribute",
+        "Primordial_Element",
+        "Concept"
+    ],
+    "सुगन्धित": [
+        "Medical_Concept",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "पढ़नी": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "चरकसंहिता": [
+        "Text",
+        "Medical_Text",
+        "Ancient_Text"
+    ],
+    "वैदिक युग": [
+        "measurement_unit",
+        "Time"
+    ],
+    "प्रकाशमय मध्याह्न": [
+        "measurement_unit",
+        "Time"
+    ],
+    "हर्षयुक्त": [
+        "Emotions"
+    ],
+    "परम धर्म": [
+        "abstract_concept",
+        "Concept"
+    ],
+    "संक्रान्ति": [
+        "special_date",
+        "date",
+        "Time"
+    ],
+    "सायंकाल": [
+        "special_date",
+        "date",
+        "Time"
+    ],
+    "ॐ कृष्णाय नमः": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "ऋतुएँ": [
+        "season",
+        "Sanskrit_text",
+        "Primordial_Element",
+        "Time",
+        "Phenomenon",
+        "other"
+    ],
+    "यं देवं देवकी देवी वसुदेवादजीजनत्। शान्तिरस्तु शिवं चास्तु॥": [
+        "Sanskrit_text"
+    ],
+    "ताँबे": [
+        "Object"
+    ],
+    "पञ्चमी तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "सम्भव": [
+        "Concept",
+        "attribute"
+    ],
+    "तोले": [
+        "measure_quantity",
+        "Concept"
+    ],
+    "ऋषिपूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "दुष्ट दैत्य हिरण्यकशिपु": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "नए पत्ते": [
+        "plant",
+        "Object",
+        "Living_Being"
+    ],
+    "अतिश्रेष्ठ": [
+        "action_process",
+        "Concept"
+    ],
+    "अर्धरात्रि": [
+        "moon_phase",
+        "Time"
+    ],
+    "धर्मशास्त्रों": [
+        "Text"
+    ],
+    "आनन्दद्योग": [
+        "Concept",
+        "attribute"
+    ],
+    "द्रोही": [
+        "Concept",
+        "attribute"
+    ],
+    "पीनस": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "ददामि ते रमाकान्त सर्वपापक्षयं कुरु": [
+        "Sanskrit_text"
+    ],
+    "जौ का सत्तू": [
+        "Food"
+    ],
+    "ढाल": [
+        "Object"
+    ],
+    "कुष्ठ": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "स्मार्त": [
+        "Social_Group_&_Role"
+    ],
+    "घोल": [
+        "action_process",
+        "Concept"
+    ],
+    "शुद्ध गङ्गाजल": [
+        "Primordial_Element",
+        "Object"
+    ],
+    "आँखों के रोग": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "भगवान् विष्णु": [
+        "Mythical_Entity",
+        "deity",
+        "Sanskrit_text"
+    ],
+    "बलवानों": [
+        "Concept",
+        "attribute"
+    ],
+    "आनन्दमय": [
+        "Concept",
+        "attribute"
+    ],
+    "चन्द्रोदय": [
+        "Phenomenon",
+        "celestial_phenomenon"
+    ],
+    "आदित्य": [
+        "Mythical_Entity",
+        "being_class",
+        "Celestial_Entity"
+    ],
+    "भक्त प्रह्लाद": [
+        "Living_Being",
+        "mythical_living_being",
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "दैत्यराज": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "नवीन वर्ष": [
+        "Activity",
+        "special_date",
+        "celestial_phenomenon",
+        "date",
+        "Phenomenon",
+        "Time",
+        "festival"
+    ],
+    "ग्रहण": [
+        "Phenomenon",
+        "celestial_phenomenon"
+    ],
+    "निर्दोष": [
+        "Concept",
+        "attribute"
+    ],
+    "अङ्ग": [
+        "attribute",
+        "Concept",
+        "Body_part"
+    ],
+    "वसुदेव जी": [
+        "Living_Being",
+        "human_individual"
+    ],
+    "स्पर्श": [
+        "Body_part"
+    ],
+    "आसक्त": [
+        "Concept",
+        "attribute"
+    ],
+    "ओषधियों": [
+        "remedy",
+        "Medical_Concept"
+    ],
+    "ग्रीष्मऋतु": [
+        "season",
+        "Phenomenon",
+        "Time"
+    ],
+    "बाष्परूप": [
+        "Primordial_Element"
+    ],
+    "स्वर्ण की मूत्ति": [
+        "Object"
+    ],
+    "हाथ जोड़कर": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "'यज्ञेश्वराय यज्ञसंभवाय यज्ञपतये गोविन्दाय नमो नमः'": [
+        "Sanskrit_text"
+    ],
+    "गुदा का दर्द": [
+        "attribute",
+        "Medical_Concept",
+        "Concept",
+        "symptom_physical",
+        "Emotions"
+    ],
+    "वृषराशि": [
+        "Celestial_Entity"
+    ],
+    "मधुमय": [
+        "Concept",
+        "attribute"
+    ],
+    "औषधों": [
+        "Object"
+    ],
+    "श्री कृष्ण": [
+        "Mythical_Entity",
+        "Living_Being",
+        "moon_phase",
+        "mythical_living_being",
+        "deity",
+        "Time"
+    ],
+    "चराचर": [
+        "Geographical_Feature",
+        "other"
+    ],
+    "स्वाति": [
+        "nakshatra",
+        "Time",
+        "Celestial_Entity"
+    ],
+    "साफ": [
+        "Concept",
+        "attribute"
+    ],
+    "असुरों": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "शोकों": [
+        "Emotions"
+    ],
+    "अध्ययन": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "सर्वपापनाशक तिल": [
+        "Concept",
+        "attribute"
+    ],
+    "बलदेव": [
+        "Living_Being",
+        "human_individual"
+    ],
+    "आसुर जीव": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "नवमी तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "बाहरी उपचार": [
+        "other",
+        "Activity"
+    ],
+    "समापन": [
+        "state",
+        "Concept"
+    ],
+    "रोहिणी": [
+        "nakshatra",
+        "Time",
+        "Celestial_Entity"
+    ],
+    "जयंति": [
+        "festival",
+        "Activity"
+    ],
+    "देवकार्यों": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "आधीरात": [
+        "measurement_unit",
+        "Time"
+    ],
+    "चर्म-सम्बन्धी विकार": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "जन्तु": [
+        "Living_Being",
+        "animal"
+    ],
+    "औषध": [
+        "other",
+        "Activity"
+    ],
+    "यमुना": [
+        "Geographical_Feature",
+        "water_body",
+        "Location"
+    ],
+    "गो": [
+        "Living_Being",
+        "animal"
+    ],
+    "गोला की पीडा": [
+        "attribute",
+        "Medical_Concept",
+        "Concept",
+        "symptom_physical",
+        "Emotions"
+    ],
+    "नवीन वस्तु": [
+        "Object"
+    ],
+    "गोदान": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "वाचिक पाप": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "सूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "आशाएं": [
+        "Emotions"
+    ],
+    "पौधों": [
+        "plant",
+        "Living_Being"
+    ],
+    "पीडा": [
+        "attribute",
+        "Medical_Concept",
+        "Concept",
+        "symptom_physical",
+        "Emotions"
+    ],
+    "अधम मनुष्य": [
+        "Living_Being",
+        "human_generic"
+    ],
+    "दुष्ट असुर": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "यथासम्भव": [
+        "Concept",
+        "attribute"
+    ],
+    "गान": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "सुगन्धित पुष्प": [
+        "Object"
+    ],
+    "भगवती गङ्गा": [
+        "Geographical_Feature",
+        "water_body",
+        "Location"
+    ],
+    "गायों": [
+        "Living_Being",
+        "animal"
+    ],
+    "'विश्वेश्वराय विश्वसंभवाय विश्वपतये नमः'": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "नागजाति": [
+        "Social_Group_&_Role"
+    ],
+    "अन्धकारयुक्त": [
+        "Primordial_Element"
+    ],
+    "बुद्धिमान्": [
+        "Concept",
+        "attribute"
+    ],
+    "अनया पूजया देव यथोक्तफलदो भव": [
+        "Sanskrit_text"
+    ],
+    "राम-कृष्ण": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "बैल": [
+        "Living_Being",
+        "animal"
+    ],
+    "चैत्र शुक्ला पूर्णिमा": [
+        "moon_phase",
+        "Time"
+    ],
+    "वृष राशि": [
+        "Celestial_Entity",
+        "Concept",
+        "Time",
+        "measure_quantity",
+        "other"
+    ],
+    "नागों की पूजा": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "प्राचीन भारतीय उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "यथार्थ रूप": [
+        "abstract_concept",
+        "Concept"
+    ],
+    "चरणों": [
+        "Body_part"
+    ],
+    "कलश-पूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "यशोदा जी": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "कमल के फूल": [
+        "Object"
+    ],
+    "येन बद्धो बली राजा दानवेन्द्रो महाबलः। तेन मन्त्रेण बध्वामि रचो मा चल मा चल॥": [
+        "Sanskrit_text"
+    ],
+    "भगवद्भक्त": [
+        "attribute",
+        "human_generic",
+        "Concept",
+        "Living_Being",
+        "Social_Group_&_Role"
+    ],
+    "मासविज्ञान": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "पुनरावृत्ति": [
+        "Concept",
+        "abstract_concept",
+        "Phenomenon",
+        "other"
+    ],
+    "दुष्कर्म करनेवालों": [
+        "other",
+        "Activity"
+    ],
+    "पंचमी": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "अदिति": [
+        "Mythical_Entity",
+        "being_class",
+        "Celestial_Entity"
+    ],
+    "समान": [
+        "Concept",
+        "attribute"
+    ],
+    "स्वजन-बान्धव": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "परंपरा": [
+        "other",
+        "Activity"
+    ],
+    "जनार्दन": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "पिलाते": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "युद्धस्मारक": [
+        "Event"
+    ],
+    "साधारण जनता": [
+        "Social_Group_&_Role"
+    ],
+    "पीतल की प्रतिमा": [
+        "Object"
+    ],
+    "प्राचीन": [
+        "measurement_unit",
+        "Time"
+    ],
+    "शीतक": [
+        "Primordial_Element"
+    ],
+    "लीलाओं": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "उल्लास-शून्य": [
+        "Emotions"
+    ],
+    "कंठ के रोग": [
+        "Body_part"
+    ],
+    "नक्त व्रत": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "उदर": [
+        "Body_part"
+    ],
+    "गर्मी के मौसम": [
+        "state",
+        "Primordial_Element",
+        "Concept"
+    ],
+    "उपाकर्म उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "प्रधानता": [
+        "Concept",
+        "attribute"
+    ],
+    "दूसरे दिन": [
+        "day",
+        "Time"
+    ],
+    "शंका": [
+        "Emotions"
+    ],
+    "इच्छानुसार": [
+        "attribute",
+        "Concept",
+        "Emotions"
+    ],
+    "परम पतितता": [
+        "Concept",
+        "attribute"
+    ],
+    "शतपत्र": [
+        "Object"
+    ],
+    "उत्सर्जन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "सात्त्विक दान": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "पुत्रहीन": [
+        "Social_Group_&_Role"
+    ],
+    "पंचगव्य": [
+        "Sanskrit_text"
+    ],
+    "परमपवित्र और गुप्त व्रत": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "नसों": [
+        "Body_part"
+    ],
+    "भोगों": [
+        "attribute",
+        "Food",
+        "Concept"
+    ],
+    "भगवान् राम": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "श्रावण": [
+        "Sanskrit_text"
+    ],
+    "नवीन ओषधियों": [
+        "remedy",
+        "Medical_Concept"
+    ],
+    "मधुर रस": [
+        "Food"
+    ],
+    "मलरोध": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "आनंद": [
+        "Concept",
+        "attribute"
+    ],
+    "विद्वान्": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "जीवों": [
+        "Living_Being",
+        "human_generic"
+    ],
+    "जागरित": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "माघ मास": [
+        "Time",
+        "month"
+    ],
+    "श्री रामनवमी": [
+        "festival",
+        "Activity"
+    ],
+    "रुधिरप्रवाह": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "विधि-विज्ञान": [
+        "Activity",
+        "Concept",
+        "knowledge_linguistic",
+        "other"
+    ],
+    "विवाह": [
+        "measurement_unit",
+        "Time"
+    ],
+    "उपाकर्म प्रकरण": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "हत्याओं": [
+        "other",
+        "Activity"
+    ],
+    "निर्णयसिन्धु": [
+        "Activity",
+        "Concept",
+        "action_process",
+        "other"
+    ],
+    "सर्वसाधारण": [
+        "Social_Group_&_Role"
+    ],
+    "चाहना": [
+        "attribute",
+        "Concept",
+        "Emotions"
+    ],
+    "चक्रवर्ती राजाओं": [
+        "Social_Group_&_Role"
+    ],
+    "गुण-धर्म": [
+        "Concept",
+        "attribute"
+    ],
+    "कान": [
+        "Body_part"
+    ],
+    "सुखित": [
+        "Emotions"
+    ],
+    "उपकारक": [
+        "Concept",
+        "attribute"
+    ],
+    "भारतभूमि": [
+        "Location"
+    ],
+    "पांच वस्तुएँ": [
+        "Object"
+    ],
+    "आटे": [
+        "Food"
+    ],
+    "प्राकट्य उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "धार्मिक उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "सप्तू": [
+        "Food"
+    ],
+    "प्राचीन भारतीय उत्सवों": [
+        "festival",
+        "Activity"
+    ],
+    "नाशक": [
+        "Activity",
+        "Concept",
+        "action_process",
+        "other"
+    ],
+    "पाण्डुरोग": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "ओषधियाँ": [
+        "remedy",
+        "Medical_Concept"
+    ],
+    "पुष्पों": [
+        "Object"
+    ],
+    "पुत्री": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "गौ": [
+        "Living_Being",
+        "animal"
+    ],
+    "शुभाशीर्वाद": [
+        "Concept",
+        "attribute"
+    ],
+    "सन्तुष्ट": [
+        "Emotions"
+    ],
+    "व्यावहारिक भाषा": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "वरुण": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "गंगा दशहरा": [
+        "festival",
+        "Activity"
+    ],
+    "प्रगट पाप": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "अधिदेवता": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "सुवर्ण की रामप्रतिमा": [
+        "Object"
+    ],
+    "तट": [
+        "Geographical_Feature",
+        "water_body"
+    ],
+    "नेत्रों": [
+        "Body_part"
+    ],
+    "गंध": [
+        "Medical_Concept",
+        "Concept",
+        "attribute"
+    ],
+    "रेतीले मरुस्थल": [
+        "Geographical_Feature",
+        "landform"
+    ],
+    "चमड़ी के रोग": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "दीपेन लभ्यते तेजस्तस्माद्दोपं ददामि ते": [
+        "Sanskrit_text"
+    ],
+    "गुच्छों": [
+        "measure_quantity",
+        "Concept"
+    ],
+    "देवी यशोदा": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "यवों": [
+        "Food"
+    ],
+    "कायिक पाप": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "पुत्रवान्": [
+        "Social_Group_&_Role"
+    ],
+    "सात्त्विक": [
+        "Concept",
+        "attribute"
+    ],
+    "लाभप्रद": [
+        "Concept",
+        "attribute"
+    ],
+    "राष्ट्रीय उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "स्त्रियों": [
+        "Social_Group_&_Role",
+        "human_generic",
+        "Living_Being"
+    ],
+    "चुराया": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "यमुना जी": [
+        "Geographical_Feature",
+        "water_body",
+        "Location"
+    ],
+    "शरीर का सूखना": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "आधिभौतिक गंगाजी": [
+        "Primordial_Element",
+        "Object"
+    ],
+    "अग्निपुराण": [
+        "Text"
+    ],
+    "गङ्गाजी के जल": [
+        "Primordial_Element",
+        "Object"
+    ],
+    "दुर्बलता": [
+        "Concept",
+        "attribute"
+    ],
+    "ताम्बूत": [
+        "Food"
+    ],
+    "सुगन्ध": [
+        "Medical_Concept",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "दरिद्र": [
+        "Concept",
+        "attribute"
+    ],
+    "पत्रादिकों": [
+        "Object"
+    ],
+    "चरणप्रक्षालन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "पहरेदार": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "वस्तुएँ": [
+        "Object"
+    ],
+    "ऋषियों": [
+        "Social_Group_&_Role"
+    ],
+    "आसुर जीवों": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "सोने-चाँदी": [
+        "Object"
+    ],
+    "गोमूत्र": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "गायें": [
+        "Living_Being",
+        "animal"
+    ],
+    "अर्घ्यदान": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "मृण्मय अथवा ताम्रमय कुम्भ": [
+        "Object"
+    ],
+    "नाग-पंचमी": [
+        "festival",
+        "special_date",
+        "Activity",
+        "Time",
+        "date"
+    ],
+    "बुद्धिमानों": [
+        "Concept",
+        "attribute"
+    ],
+    "भाद्रपद की पूर्णिमा": [
+        "moon_phase",
+        "Time"
+    ],
+    "राखी": [
+        "festival"
+    ],
+    "बोलना": [
+        "Activity",
+        "mundane_activity",
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "दानत्र": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "साधुओं": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "जयन्तीरूप": [
+        "festival",
+        "Activity"
+    ],
+    "संस्कार": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "वायु रोग": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "घरों": [
+        "Location"
+    ],
+    "मानस पाप": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "निर्जल": [
+        "Concept",
+        "attribute"
+    ],
+    "कमलनयन देवेश श्रीरामचन्द्र": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "ओले के लड्डू": [
+        "Food"
+    ],
+    "द्वादश राशि": [
+        "Celestial_Entity",
+        "Concept",
+        "Time",
+        "measure_quantity",
+        "other"
+    ],
+    "श्रीवत्स": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "वेदपारायण": [
+        "Concept",
+        "attribute"
+    ],
+    "सत्कारपूर्वक": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "राक्षसों": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "श्रवण नक्षत्र": [
+        "nakshatra",
+        "Time",
+        "Celestial_Entity"
+    ],
+    "पवित्र": [
+        "Concept",
+        "attribute"
+    ],
+    "नाच": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "नाग का पूजन": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "दशमी तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "दशमीतिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "ॐ बलभद्राय नमः": [
+        "Sanskrit_text"
+    ],
+    "अनुनय": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "कालागुरुमयं धूपं सर्वदैवतवल्लभम्। समर्पयामि ते विभो सर्वकामसमृद्धये": [
+        "Sanskrit_text"
+    ],
+    "शास्त्रों": [
+        "Text"
+    ],
+    "नाग-पूजा": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "जगत् के स्वामी विष्णुभगवान्": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "स्वामी भगवान विष्णु": [
+        "Mythical_Entity",
+        "deity",
+        "Sanskrit_text"
+    ],
+    "आनन्द": [
+        "Concept",
+        "attribute"
+    ],
+    "ब्राह्मणभोजन": [
+        "Food"
+    ],
+    "भगवान् श्रीकृष्ण": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "अष्टमी तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "दन्तकटाकट": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "सौन्दर्य": [
+        "Concept",
+        "attribute"
+    ],
+    "गङ्गास्नान": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "द्वितीया तिथि": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "अनुयायियों": [
+        "Social_Group_&_Role"
+    ],
+    "वेद‌पारायण": [
+        "Concept",
+        "attribute"
+    ],
+    "लीची": [
+        "attribute",
+        "Food",
+        "Concept"
+    ],
+    "नवीन संवत्सर": [
+        "Activity",
+        "special_date",
+        "celestial_phenomenon",
+        "date",
+        "Phenomenon",
+        "Time",
+        "festival"
+    ],
+    "यविष्ठ नाम के अग्नि": [
+        "Mythical_Entity",
+        "deity",
+        "Primordial_Element"
+    ],
+    "सौभाग्यवती बहिन": [
+        "Concept",
+        "attribute"
+    ],
+    "कार्यारम्भ": [
+        "Activity",
+        "mundane_activity",
+        "action_process",
+        "Concept"
+    ],
+    "दिव्यभाव": [
+        "Concept",
+        "attribute"
+    ],
+    "देवताओं के देव": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "यज्ञ-क्रिया": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "पौरुष": [
+        "Living_Being",
+        "human_generic"
+    ],
+    "स्वामी कार्तिकेय": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "हस्त नक्षत्र": [
+        "nakshatra",
+        "Time",
+        "Celestial_Entity"
+    ],
+    "पुरुषोत्तम": [
+        "abstract_concept",
+        "Concept"
+    ],
+    "अनन्त शक्ति": [
+        "Concept",
+        "attribute"
+    ],
+    "कुम्भा": [
+        "Object"
+    ],
+    "चीनी": [
+        "Food"
+    ],
+    "राजधानी": [
+        "Location"
+    ],
+    "भारत-वर्ष": [
+        "Location"
+    ],
+    "शंका करनेवालों": [
+        "Emotions"
+    ],
+    "ऋतुओं": [
+        "season",
+        "Sanskrit_text",
+        "Primordial_Element",
+        "Time",
+        "Phenomenon",
+        "other"
+    ],
+    "गोपीजन": [
+        "Social_Group_&_Role"
+    ],
+    "वषट्‌कार": [
+        "measurement_unit",
+        "Time"
+    ],
+    "प्रचुरता": [
+        "measure_quantity",
+        "Concept"
+    ],
+    "गङ्गाजी": [
+        "Geographical_Feature",
+        "water_body",
+        "Location"
+    ],
+    "चोरी": [
+        "other",
+        "Activity"
+    ],
+    "सत्पुरुषों": [
+        "Concept",
+        "attribute"
+    ],
+    "तिल के तेल": [
+        "Food"
+    ],
+    "ॐ देवक्यै नमः": [
+        "Sanskrit_text"
+    ],
+    "हिम": [
+        "Primordial_Element"
+    ],
+    "अनार": [
+        "Food"
+    ],
+    "मुख्य समय": [
+        "other",
+        "Time"
+    ],
+    "परिवर्त्तन": [
+        "Phenomenon",
+        "other"
+    ],
+    "अभिवर्धमान चन्द्र": [
+        "Celestial_Entity"
+    ],
+    "गन्धवाली": [
+        "Medical_Concept",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "प्राणियों": [
+        "Living_Being",
+        "animal"
+    ],
+    "चाँदी का पलंग": [
+        "Object"
+    ],
+    "धनवानों": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "वायु की समस्या": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "धार्मिक लोग": [
+        "attribute",
+        "Social_Group_&_Role",
+        "Concept"
+    ],
+    "फसलों": [
+        "Food"
+    ],
+    "पिताजी": [
+        "Social_Group_&_Role"
+    ],
+    "गोमय": [
+        "Object"
+    ],
+    "आध्यात्मिक गंगाजी": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "श्रावण की पूर्णिमा": [
+        "moon_phase",
+        "Time"
+    ],
+    "उत्सवों": [
+        "festival",
+        "Activity"
+    ],
+    "दूसरे मास": [
+        "Time",
+        "month"
+    ],
+    "गाय का दूध": [
+        "Food"
+    ],
+    "जाँघों की जकड़न": [
+        "symptom_physical",
+        "Medical_Concept"
+    ],
+    "अक्षय तृतीया": [
+        "special_date",
+        "date",
+        "Time"
+    ],
+    "सुर": [
+        "Mythical_Entity",
+        "deity",
+        "Celestial_Entity"
+    ],
+    "शुभ तिथि": [
+        "special_date",
+        "date",
+        "Time"
+    ],
+    "आठ लोकपाल": [
+        "Mythical_Entity",
+        "Social_Group_&_Role",
+        "being_class"
+    ],
+    "नए वर्ष": [
+        "Activity",
+        "special_date",
+        "celestial_phenomenon",
+        "date",
+        "Phenomenon",
+        "Time",
+        "festival"
+    ],
+    "इच्छाओं": [
+        "attribute",
+        "Concept",
+        "Emotions"
+    ],
+    "बृहस्पति": [
+        "Time",
+        "Celestial_Entity",
+        "other"
+    ],
+    "भक्तों": [
+        "attribute",
+        "human_generic",
+        "Concept",
+        "Living_Being",
+        "Social_Group_&_Role"
+    ],
+    "पापियों": [
+        "Concept",
+        "attribute"
+    ],
+    "चन्द्रिका": [
+        "Celestial_Entity"
+    ],
+    "परिदृश्यमान जगत्": [
+        "Geographical_Feature",
+        "abstract_concept",
+        "Concept",
+        "Location",
+        "other"
+    ],
+    "वेश्याओं": [
+        "Social_Group_&_Role"
+    ],
+    "देवताओं": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "कन्या राशि": [
+        "Celestial_Entity",
+        "Concept",
+        "Time",
+        "measure_quantity",
+        "other"
+    ],
+    "षोडशोपचार": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "लकड़ी": [
+        "measurement_unit",
+        "Time",
+        "Object"
+    ],
+    "मनोवैज्ञानिक": [
+        "Social_Group_&_Role"
+    ],
+    "सूखा मल": [
+        "secretion_external",
+        "Medical_Concept"
+    ],
+    "विष्णु भगवान्": [
+        "Mythical_Entity",
+        "deity",
+        "Sanskrit_text"
+    ],
+    "ध्वन्यात्मक वर्ण": [
+        "knowledge_linguistic",
+        "Concept"
+    ],
+    "उपभोग्य वस्तुओं": [
+        "Object"
+    ],
+    "संतान": [
+        "Social_Group_&_Role"
+    ],
+    "स्नायुओं": [
+        "Body_part"
+    ],
+    "सप्तमी": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "आषाढ मास": [
+        "Time",
+        "month"
+    ],
+    "चाँदी की प्रतिमा": [
+        "Object"
+    ],
+    "मूर्ति": [
+        "Object"
+    ],
+    "घटनाएँ": [
+        "other",
+        "Activity"
+    ],
+    "निवृत्त": [
+        "Concept",
+        "attribute"
+    ],
+    "योगवाही": [
+        "measurement_unit",
+        "Time",
+        "mundane_activity",
+        "action_process",
+        "Concept",
+        "Activity"
+    ],
+    "बाहरी गंदगी": [
+        "Concept",
+        "attribute"
+    ],
+    "दोषरहित": [
+        "Concept",
+        "attribute"
+    ],
+    "विष": [
+        "Food"
+    ],
+    "वेदों": [
+        "Text"
+    ],
+    "तत्पर": [
+        "attribute",
+        "Concept",
+        "Emotions"
+    ],
+    "प्रथम मास": [
+        "Time",
+        "month"
+    ],
+    "द्वितीय": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "राष्ट्र": [
+        "Location"
+    ],
+    "निषिद्ध": [
+        "action_process",
+        "Concept"
+    ],
+    "अप्सराएँ": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "देवतत्त्वों": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "तृतीया": [
+        "date",
+        "generic_date",
+        "Time"
+    ],
+    "ज्येष्ठ मास": [
+        "Time",
+        "month"
+    ],
+    "शिव": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "तलवार": [
+        "Object"
+    ],
+    "महान् उत्सव": [
+        "festival",
+        "Activity"
+    ],
+    "द्रव्य": [
+        "Concept",
+        "attribute"
+    ],
+    "पवित्र पुनर्वसु नक्षत्र": [
+        "Celestial_Entity",
+        "nakshatra",
+        "Time"
+    ],
+    "राजस दान": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "आधारभूत वृक्ष": [
+        "plant",
+        "Living_Being"
+    ],
+    "बेसन के लड्डू": [
+        "Food"
+    ],
+    "सौन्दर्यमय": [
+        "Concept",
+        "attribute"
+    ],
+    "मधुर": [
+        "Concept",
+        "attribute"
+    ],
+    "भगवती": [
+        "deity",
+        "Mythical_Entity"
+    ],
+    "पूर्णिमा तिथि": [
+        "moon_phase",
+        "Time"
+    ],
+    "गुणत्राला": [
+        "Concept",
+        "attribute"
+    ],
+    "ददामि तेस्तु तुष्टयर्थं नृसिंह परमेश्वर": [
+        "Sanskrit_text"
+    ],
+    "रक्षा-सूत्र": [
+        "Activity",
+        "Concept",
+        "attribute"
+    ],
+    "व्यासजी": [
+        "Mythical_Entity",
+        "individual_figure"
+    ],
+    "पुष्पादि": [
+        "Object"
+    ],
+    "सुरक्षित": [
+        "Activity",
+        "Concept",
+        "other",
+        "attribute"
+    ],
+    "दशविध स्नान": [
+        "Activity",
+        "mundane_activity"
+    ],
+    "माघ": [
+        "month",
+        "Time"
+    ],
+    "अग्निष्टोम": [
+        "ritual_activity",
+        "Activity"
+    ],
+    "अमावस्या": [
+        "moon_phase",
+        "Time"
+    ],
+    "पञ्चाङ्गों": [
+        "Text"
+    ],
+    "आनन्दप्रदता": [
+        "Concept",
+        "attribute"
+    ],
+    "मंगलाचार": [
+        "Concept",
+        "attribute"
+    ],
+    "कमल": [
+        "Object"
+    ],
+    "खांसी": [
+        "symptom_physical",
+        "Medical_Concept"
+    ],
+    "आध्यात्मिक देवता": [
+        "being_class",
+        "Mythical_Entity"
+    ],
+    "निर्धनों": [
+        "Concept",
+        "attribute"
+    ],
+    "छिद्र रहित कुम्भ": [
+        "Object"
+    ],
+    "उग्र": [
+        "attribute",
+        "Concept",
+        "Emotions"
+    ],
+    "असाधुओं": [
+        "Concept",
+        "attribute"
+    ],
+    "मछली": [
+        "Living_Being",
+        "animal"
+    ],
+    "आशा": [
+        "measure_quantity",
+        "Concept"
+    ],
+    "संकल्प": [
+        "Activity",
+        "action_process",
+        "ritual_activity",
+        "Concept"
+    ],
+    "हाथी": [
+        "Living_Being",
+        "animal"
+    ],
+    "श्रीकृष्ण": [
+        "Mythical_Entity",
+        "Living_Being",
+        "mythical_living_being",
+        "deity",
+        "Time"
+    ],
+    "पूर्णब्रह्म": [
+        "metaphysical_entity",
+        "Mythical_Entity"
+    ],
+    "पित्तादि विकार": [
+        "disease",
+        "Medical_Concept"
+    ],
+    "मर्यादा पुरुषोत्तम": [
+        "deity",
+        "Living_Being",
+        "mythical_living_being",
+        "Mythical_Entity"
+    ],
+    "नीम के पत्ते": [
+        "Food"
+    ],
+    "मृत प्रकृति": [
+        "Concept"
+    ],
+    "प्रथम कला": [
+        "Phenomenon"
+    ],
+    "नवजात": [
+        "Concept"
+    ],
+    "शारीरिक लाभ": [
+        "Medical_Concept"
+    ],
+    "मानसिक लाभ": [
+        "Concept"
+    ],
+    "पारलौकिक दृष्टि": [
+        "Concept"
+    ],
+    "कोमल पत्ते": [
+        "Object"
+    ],
+    "चर्म-सम्बन्धी मलिनता": [
+        "Medical_Concept"
+    ],
+    "वायु की पीड़ा": [
+        "Medical_Concept"
+    ],
+    "कम उम्र": [
+        "Concept"
+    ],
+    "पैरों का सुन्न होना": [
+        "Medical_Concept"
+    ],
+    "फटना": [
+        "Medical_Concept"
+    ],
+    "सिकुड़ना": [
+        "Concept"
+    ],
+    "कड़वा": [
+        "Concept"
+    ],
+    "मिश्रित प्रयोग": [
+        "Concept"
+    ],
+    "आधुनिक": [
+        "Concept"
+    ],
+    "साधारण": [
+        "Social_Group_and_Role"
+    ],
+    "प्रेरित": [
+        "Concept"
+    ],
+    "आधुनिक शिक्षा": [
+        "Concept"
+    ],
+    "शिक्षित पाठक": [
+        "Social_Group_and_Role"
+    ],
+    "मनोवैज्ञानिक दृष्टि": [
+        "Concept"
+    ],
+    "उत्तम कार्य": [
+        "Concept"
+    ],
+    "प्रथम दिन": [
+        "Time"
+    ],
+    "अवयवरूप": [
+        "Mythical_Entity"
+    ],
+    "सूक्ष्म और भावगम्य देवता": [
+        "Mythical_Entity"
+    ],
+    "पूर्वाभिमुख": [
+        "Location"
+    ],
+    "बैठाकर": [
+        "Activity"
+    ],
+    "जिमाकर": [
+        "Food"
+    ],
+    "स्वयं भोजन": [
+        "Activity"
+    ],
+    "अवतीर्ण": [
+        "Mythical_Entity"
+    ],
+    "पूर्ण शान्ति": [
+        "Concept"
+    ],
+    "खेलना": [
+        "Activity"
+    ],
+    "दृढ़ता": [
+        "Concept"
+    ],
+    "कसैला": [
+        "Concept"
+    ],
+    "चैत्रमास नवमी": [
+        "Time"
+    ],
+    "मेष के सूर्य": [
+        "Celestial_Entity"
+    ],
+    "त्रिलोक के पाप": [
+        "Concept"
+    ],
+    "गुप्त पाप": [
+        "Medical_Concept"
+    ],
+    "कृतकृत्य": [
+        "Concept"
+    ],
+    "पल भर सोना": [
+        "Object"
+    ],
+    "नील और पीत आदि वर्णवाले असतों": [
+        "Mythical_Entity"
+    ],
+    "भक्तिपूर्वक पुस्तक-पाठ": [
+        "Activity"
+    ],
+    "राम के लोक": [
+        "Concept"
+    ],
+    "गुणकारी वस्तुएँ": [
+        "Object"
+    ],
+    "दक्षिणासहित": [
+        "Location"
+    ],
+    "कृषिप्रधान": [
+        "Social_Group_and_Role"
+    ],
+    "जया": [
+        "Time"
+    ],
+    "विशेष": [
+        "Concept"
+    ],
+    "नियंत्रित": [
+        "Concept"
+    ],
+    "हल्का": [
+        "Concept"
+    ],
+    "उत्तम वस्तु": [
+        "Object"
+    ],
+    "धान्यों के राजा": [
+        "Social_Group_and_Role"
+    ],
+    "ऋतु के अनुकूल वस्तु": [
+        "Object"
+    ],
+    "शरीर पुष्ट": [
+        "Medical_Concept"
+    ],
+    "पीड़ित प्राणियों": [
+        "Medical_Concept"
+    ],
+    "पवित्र स्थानों": [
+        "Location"
+    ],
+    "राख में हवन": [
+        "Activity"
+    ],
+    "उत्तम वस्तुओं": [
+        "Object"
+    ],
+    "पालक": [
+        "Concept"
+    ],
+    "तमोमय": [
+        "Concept"
+    ],
+    "अंधकारयुक्त दिन": [
+        "Time"
+    ],
+    "ज्ञानियों में श्रेष्ठ प्रह्लाद": [
+        "Living_Being"
+    ],
+    "अवैधव्य": [
+        "Concept"
+    ],
+    "गुप्त": [
+        "Concept"
+    ],
+    "सर्वपापनाशक व्रत": [
+        "Activity"
+    ],
+    "विमल जल": [
+        "Primordial_Element"
+    ],
+    "पवित्र वस्त्र": [
+        "Object"
+    ],
+    "दान्त": [
+        "Concept"
+    ],
+    "जितेन्द्रिय": [
+        "Concept"
+    ],
+    "आचार्य ब्राह्मण": [
+        "Social_Group_and_Role"
+    ],
+    "दे": [
+        "Activity"
+    ],
+    "करे": [
+        "Activity"
+    ],
+    "दानादि": [
+        "Concept"
+    ],
+    "ज्येष्ठमास": [
+        "Time"
+    ],
+    "हस्तनक्षत्र": [
+        "Celestial_Entity"
+    ],
+    "व्यतीपातयोग": [
+        "Concept"
+    ],
+    "गरकरण": [
+        "Activity"
+    ],
+    "कन्याराशि": [
+        "Celestial_Entity"
+    ],
+    "महानदी": [
+        "Geographical_Feature"
+    ],
+    "पितृतर्पण": [
+        "Activity"
+    ],
+    "तीर्थ": [
+        "Location"
+    ],
+    "मृत्तिका": [
+        "Object"
+    ],
+    "नारायण": [
+        "Mythical_Entity"
+    ],
+    "भगीरथराजा": [
+        "Social_Group_and_Role"
+    ],
+    "कछुए": [
+        "Living_Being"
+    ],
+    "मेंढक": [
+        "Living_Being"
+    ],
+    "हिन्दू": [
+        "Social_Group_and_Role"
+    ],
+    "भगवती गङ्गाजी": [
+        "Mythical_Entity"
+    ],
+    "पतितपावनी": [
+        "Concept"
+    ],
+    "अन्त्यज": [
+        "Social_Group_and_Role"
+    ],
+    "अश्वमेध": [
+        "Activity"
+    ],
+    "राजसूय": [
+        "Activity"
+    ],
+    "शीतल जल": [
+        "Primordial_Element"
+    ],
+    "गङ्गोत्तरी": [
+        "Location"
+    ],
+    "हिम का जल": [
+        "Primordial_Element"
+    ],
+    "शुद्ध जल": [
+        "Food"
+    ],
+    "चन्द्रमा का जल": [
+        "Concept"
+    ],
+    "मंगल कार्य": [
+        "Activity"
+    ],
+    "वशिष्ठ": [
+        "Living_Being"
+    ],
+    "शुभ कार्य": [
+        "Concept"
+    ],
+    "पुण्यकाल": [
+        "Time"
+    ],
+    "दोषाधायक": [
+        "Concept"
+    ],
+    "तर्पण": [
+        "Activity"
+    ],
+    "तीर्थयात्री": [
+        "Living_Being"
+    ],
+    "जलदान": [
+        "Activity"
+    ],
+    "परिशिष्ट": [
+        "Text"
+    ],
+    "याज्ञवल्क्य": [
+        "Living_Being"
+    ],
+    "आधिभौतिक": [
+        "Concept"
+    ],
+    "आधिदैविक": [
+        "Concept"
+    ],
+    "फलदाता": [
+        "Concept"
+    ],
+    "राजा भगीरथ": [
+        "Social_Group_and_Role"
+    ],
+    "मानसिक पाप": [
+        "Concept"
+    ],
+    "गंगास्तोत्र": [
+        "Text"
+    ],
+    "परस्त्री सेवन": [
+        "Medical_Concept"
+    ],
+    "कठोर वचन": [
+        "Concept"
+    ],
+    "चुगली": [
+        "Concept"
+    ],
+    "असम्बद्ध बकवाद": [
+        "Concept"
+    ],
+    "बुराई सोचना": [
+        "Concept"
+    ],
+    "व्यर्थ आग्रह": [
+        "Concept"
+    ],
+    "सर्वपापहारिणी भगवती भागीरथी": [
+        "Mythical_Entity"
+    ],
+    "गोता": [
+        "Object"
+    ],
+    "मयूखकार": [
+        "Social_Group_and_Role"
+    ],
+    "नीलकण्ठभट्ट": [
+        "Living_Being"
+    ],
+    "शंकरभट्ट": [
+        "Living_Being"
+    ],
+    "षष्ठी": [
+        "Time"
+    ],
+    "नाग": [
+        "Mythical_Entity"
+    ],
+    "सर्प": [
+        "Living_Being"
+    ],
+    "बिल": [
+        "Geographical_Feature"
+    ],
+    "नागों": [
+        "Mythical_Entity"
+    ],
+    "सामान्य": [
+        "Concept"
+    ],
+    "शेष": [
+        "Mythical_Entity"
+    ],
+    "सर्पराज": [
+        "Mythical_Entity"
+    ],
+    "शास्त्रकार": [
+        "Social_Group_and_Role"
+    ],
+    "भयप्रद कीड़": [
+        "Concept"
+    ],
+    "अनार्यभावना": [
+        "Concept"
+    ],
+    "द्वेष": [
+        "Emotions"
+    ],
+    "तर्क": [
+        "Concept"
+    ],
+    "भाद्रपद मास के शुक्लपक्ष की पंचमी तिथि": [
+        "Time"
+    ],
+    "भाद्रपद मास के शुक्लपक्ष की पंचमी तिथि का व्रत": [
+        "Activity"
+    ],
+    "वरानने": [
+        "Social_Group_and_Role"
+    ],
+    "पंचमी के व्रत": [
+        "Activity"
+    ],
+    "मिट्टी का नाग": [
+        "Object"
+    ],
+    "फणवाला": [
+        "Concept"
+    ],
+    "करवीर": [
+        "Object"
+    ],
+    "वासुकि": [
+        "Living_Being"
+    ],
+    "पद्म": [
+        "Living_Being"
+    ],
+    "कर्कोटक": [
+        "Living_Being"
+    ],
+    "अश्वतर": [
+        "Mythical_Entity"
+    ],
+    "धृतराष्ट्र": [
+        "Living_Being"
+    ],
+    "शंखपाल": [
+        "Living_Being"
+    ],
+    "कालिय": [
+        "Living_Being"
+    ],
+    "तक्षक": [
+        "Living_Being"
+    ],
+    "पिंगल": [
+        "Living_Being"
+    ],
+    "पारण": [
+        "Activity"
+    ],
+    "दूध से बनी वस्तुओं": [
+        "Food"
+    ],
+    "धर्मसिन्धु": [
+        "Text"
+    ],
+    "कालनिर्णय": [
+        "Event"
+    ],
+    "उपाकर्म": [
+        "Activity"
+    ],
+    "हल्दी": [
+        "Food"
+    ],
+    "कलश": [
+        "Object"
+    ],
+    "पट्टे": [
+        "Object"
+    ],
+    "येन बद्धो बली राजा दानवेन्द्रो महाबलः। तेन त्वां प्रतिबध्नामि रक्षे मा चल मा चल॥": [
+        "Sanskrit_text"
+    ],
+    "बहिन": [
+        "Social_Group_and_Role"
+    ],
+    "इन्द्र": [
+        "Mythical_Entity"
+    ],
+    "इन्द्राणी": [
+        "Mythical_Entity"
+    ],
+    "सौभाग्यवती स्त्री": [
+        "Concept"
+    ],
+    "श्री": [
+        "Mythical_Entity"
+    ],
+    "दानपात्र": [
+        "Object"
+    ],
+    "चित्तौड़ की रानी कर्मावती": [
+        "Social_Group_and_Role"
+    ],
+    "सुप्रसिद्ध बादशाह अकबर": [
+        "Social_Group_and_Role"
+    ],
+    "हुमायूँ": [
+        "Social_Group_and_Role"
+    ],
+    "आरोग्य": [
+        "Medical_Concept"
+    ],
+    "सुधानिधि": [
+        "Concept"
+    ],
+    "पालनकर्त्ता": [
+        "Concept"
+    ],
+    "मासविज्ञान प्रकरण": [
+        "Text"
+    ],
+    "कीटाणु": [
+        "Concept"
+    ],
+    "रक्षा-बन्धन": [
+        "Activity"
+    ],
+    "भूमि-लेपन": [
+        "Activity"
+    ],
+    "प्लेग": [
+        "Medical_Concept"
+    ],
+    "डॉक्टर": [
+        "Social_Group_and_Role"
+    ],
+    "घर-लीपन": [
+        "Activity"
+    ],
+    "कीटाणु-विनाशक": [
+        "Concept"
+    ],
+    "पूरने": [
+        "Object"
+    ],
+    "रोली": [
+        "Food"
+    ],
+    "कटु": [
+        "Concept"
+    ],
+    "रोगाणु": [
+        "Medical_Concept"
+    ],
+    "जल-पूर्ण": [
+        "Primordial_Element"
+    ],
+    "मांगलिकता": [
+        "Concept"
+    ],
+    "भारतीय": [
+        "Social_Group_and_Role"
+    ],
+    "बन्धन": [
+        "Concept"
+    ],
+    "ऋचा": [
+        "Text"
+    ],
+    "वरुणरूप": [
+        "Mythical_Entity"
+    ],
+    "पाश": [
+        "Concept"
+    ],
+    "दीनता-निवृत्ति": [
+        "Concept"
+    ],
+    "परिचर्या": [
+        "Activity"
+    ],
+    "मृत्युपाश": [
+        "Concept"
+    ],
+    "जलपूर्ण": [
+        "Object"
+    ],
+    "सूत्र": [
+        "Object"
+    ],
+    "तन्तु": [
+        "Object"
+    ],
+    "अविच्छिन्नता": [
+        "Concept"
+    ],
+    "आशीर्वाद": [
+        "Concept"
+    ],
+    "भानज": [
+        "Social_Group_and_Role"
+    ],
+    "बाँधने": [
+        "Activity"
+    ],
+    "युधिष्ठिर": [
+        "Living_Being"
+    ],
+    "अच्युत": [
+        "Mythical_Entity"
+    ],
+    "पाण्डवश्रेष्ठ": [
+        "Social_Group_and_Role"
+    ],
+    "अमरावती": [
+        "Location"
+    ],
+    "आज्ञा": [
+        "Concept"
+    ],
+    "स्वाहाकार": [
+        "Activity"
+    ],
+    "स्वधाकार": [
+        "Activity"
+    ],
+    "देवराज": [
+        "Mythical_Entity"
+    ],
+    "बैरि": [
+        "Mythical_Entity"
+    ],
+    "प्राणान्त": [
+        "Event"
+    ],
+    "सुरपति": [
+        "Social_Group_and_Role"
+    ],
+    "पुरन्दर": [
+        "Mythical_Entity"
+    ],
+    "कोप": [
+        "Emotions"
+    ],
+    "देशकाल": [
+        "Time"
+    ],
+    "अनर्थ": [
+        "Concept"
+    ],
+    "विचक्षण": [
+        "Concept"
+    ],
+    "वृत्र": [
+        "Mythical_Entity"
+    ],
+    "पोटली": [
+        "Object"
+    ],
+    "ऋग्वेदियों": [
+        "Social_Group_and_Role"
+    ],
+    "श्रावण नक्षत्र": [
+        "Celestial_Entity"
+    ],
+    "श्रावण शुक्ल पंचमी": [
+        "Time"
+    ],
+    "श्रावण की पंचमी": [
+        "Time"
+    ],
+    "भाद्रपद की पंचमी": [
+        "Time"
+    ],
+    "यजुर्वेदियों": [
+        "Social_Group_and_Role"
+    ],
+    "तैत्तिरीय शाखावालों": [
+        "Social_Group_and_Role"
+    ],
+    "शेष सब यजुर्वेदियों": [
+        "Social_Group_and_Role"
+    ],
+    "सामवेदियों": [
+        "Social_Group_and_Role"
+    ],
+    "श्रावण के हस्त नक्षत्र": [
+        "Celestial_Entity"
+    ],
+    "अथर्ववेदियों": [
+        "Social_Group_and_Role"
+    ],
+    "द्विज": [
+        "Social_Group_and_Role"
+    ],
+    "वेदाध्ययन": [
+        "Activity"
+    ],
+    "श्रवणमास": [
+        "Time"
+    ],
+    "नवीन ओषधियाँ": [
+        "Medical_Concept"
+    ],
+    "मिताक्षरा": [
+        "Sanskrit_text"
+    ],
+    "श्रवणनदात्रे": [
+        "Time"
+    ],
+    "पौष": [
+        "Time"
+    ],
+    "वेद की शाखा": [
+        "Concept"
+    ],
+    "पर्युषिता": [
+        "Concept"
+    ],
+    "आश्रम": [
+        "Concept"
+    ],
+    "पवित्र जीवन": [
+        "Concept"
+    ],
+    "स्मारक": [
+        "Object"
+    ],
+    "द्विजत्व": [
+        "Social_Group_and_Role"
+    ],
+    "चित्तौड़ का किला": [
+        "Location"
+    ],
+    "चित्तौड़ के किले": [
+        "Location"
+    ],
+    "सांगा": [
+        "Social_Group_and_Role"
+    ],
+    "कवि-कल्पना": [
+        "Concept"
+    ],
+    "ओजस्विता": [
+        "Concept"
+    ],
+    "प्राचीन आध्यात्मिक ऋषि-जीवन": [
+        "Concept"
+    ],
+    "दिव्य चित्र": [
+        "Concept"
+    ],
+    "प्राचीन भारतीय संस्कृति": [
+        "Social_Group_and_Role"
+    ],
+    "प्राचीन स्मृति": [
+        "Concept"
+    ],
+    "प्राचीन भारतीय धर्म": [
+        "Concept"
+    ],
+    "पंचगव्यप्राशन": [
+        "Activity"
+    ],
+    "आचमन": [
+        "Activity"
+    ],
+    "कुशा का जल": [
+        "Object"
+    ],
+    "नीली गाय का दही": [
+        "Food"
+    ],
+    "काली गाय का घी": [
+        "Food"
+    ],
+    "लाल गाय का गोमूत्र": [
+        "Medical_Concept"
+    ],
+    "सफेद गाय का गोमय": [
+        "Food"
+    ],
+    "गाय का घी": [
+        "Food"
+    ],
+    "गाय का गोमय": [
+        "Food"
+    ],
+    "ओज": [
+        "Concept"
+    ],
+    "रसायन": [
+        "Concept"
+    ],
+    "अतिसार": [
+        "Medical_Concept"
+    ],
+    "अरुचि": [
+        "Other"
+    ],
+    "गाय का उत्तम घी": [
+        "Food"
+    ],
+    "स्नेहों": [
+        "Object"
+    ],
+    "भावप्रकाश": [
+        "Text"
+    ],
+    "शूल": [
+        "Medical_Concept"
+    ],
+    "गुल्म": [
+        "Medical_Concept"
+    ],
+    "उद्र": [
+        "Medical_Concept"
+    ],
+    "अफरा": [
+        "Medical_Concept"
+    ],
+    "मुखों के रोगों": [
+        "Medical_Concept"
+    ],
+    "किलास": [
+        "Medical_Concept"
+    ],
+    "आमवात": [
+        "Medical_Concept"
+    ],
+    "दद्मा": [
+        "Medical_Concept"
+    ],
+    "पीलिया": [
+        "Medical_Concept"
+    ],
+    "रक्त की कमी": [
+        "Medical_Concept"
+    ],
+    "गोला": [
+        "Medical_Concept"
+    ],
+    "दस्त लगना": [
+        "Medical_Concept"
+    ],
+    "कोढ़": [
+        "Medical_Concept"
+    ],
+    "पेट के कीड़े": [
+        "Medical_Concept"
+    ],
+    "प्लीहा": [
+        "Body_part"
+    ],
+    "अफारा": [
+        "Medical_Concept"
+    ],
+    "कडुआ": [
+        "Concept"
+    ],
+    "बकरी": [
+        "Living_Being"
+    ],
+    "भेड़": [
+        "Living_Being"
+    ],
+    "भैंस": [
+        "Living_Being"
+    ],
+    "गधे": [
+        "Living_Being"
+    ],
+    "ऊँट": [
+        "Living_Being"
+    ],
+    "घोड़े": [
+        "Living_Being"
+    ],
+    "अग्रमग्रं चरन्तीनामोषधीनां वने वने": [
+        "Sanskrit_text"
+    ],
+    "जंगलों": [
+        "Geographical_Feature"
+    ],
+    "इटलो": [
+        "Location"
+    ],
+    "हैजा": [
+        "Medical_Concept"
+    ],
+    "हैजे": [
+        "Mythical_Entity"
+    ],
+    "मद्रास": [
+        "Location"
+    ],
+    "किंग": [
+        "Living_Being"
+    ],
+    "डाक्टरों": [
+        "Social_Group_and_Role"
+    ],
+    "पश्चगव्य": [
+        "Medical_Concept"
+    ],
+    "योगरत्नाकर": [
+        "Text"
+    ],
+    "खट्टा पानी": [
+        "Food"
+    ],
+    "घृत": [
+        "Object"
+    ],
+    "पागलपन": [
+        "Concept"
+    ],
+    "अपस्मार": [
+        "Medical_Concept"
+    ],
+    "गोले": [
+        "Medical_Concept"
+    ],
+    "बवासीर": [
+        "Medical_Concept"
+    ],
+    "अलक्ष्मी": [
+        "Mythical_Entity"
+    ],
+    "कुश": [
+        "Object"
+    ],
+    "कुशों": [
+        "Geographical_Feature"
+    ],
+    "मेध्या": [
+        "Primordial_Element"
+    ],
+    "पवित्र जल": [
+        "Concept"
+    ],
+    "पञ्चगव्यप्राशन": [
+        "Activity"
+    ],
+    "दशविध": [
+        "Activity"
+    ],
+    "अष्टविध": [
+        "Activity"
+    ],
+    "पांच वस्तुओं": [
+        "Concept"
+    ],
+    "भस्म": [
+        "Object"
+    ],
+    "बरतन": [
+        "Object"
+    ],
+    "ऋण": [
+        "Concept"
+    ],
+    "दाक्षिणात्यों": [
+        "Social_Group_and_Role"
+    ],
+    "जिज्ञासा": [
+        "Concept"
+    ],
+    "संप्रदाय": [
+        "Social_Group_and_Role"
+    ],
+    "जटिलता": [
+        "Concept"
+    ],
+    "कला-काष्ठा": [
+        "Time"
+    ],
+    "पूर्वदिन": [
+        "Time"
+    ],
+    "रामानन्द": [
+        "Social_Group_and_Role"
+    ],
+    "सम्प्रदाय": [
+        "Social_Group_and_Role"
+    ],
+    "रामानुज": [
+        "Social_Group_and_Role"
+    ],
+    "देवकी": [
+        "Living_Being"
+    ],
+    "प्रधान": [
+        "Concept"
+    ],
+    "मुख्य": [
+        "Concept"
+    ],
+    "शंख": [
+        "Object"
+    ],
+    "भगवत्कीर्तन": [
+        "Activity"
+    ],
+    "श्रीनाथद्वारा": [
+        "Location"
+    ],
+    "व्रज": [
+        "Location"
+    ],
+    "विशिष्टरूप": [
+        "Concept"
+    ],
+    "सर्वमान्य": [
+        "Concept"
+    ],
+    "वल्लभ": [
+        "Social_Group_and_Role"
+    ],
+    "चैतन्य": [
+        "Social_Group_and_Role"
+    ],
+    "निम्बार्क": [
+        "Social_Group_and_Role"
+    ],
+    "छिड़काव": [
+        "Activity"
+    ],
+    "लेपन": [
+        "Activity"
+    ],
+    "हरिद्रा": [
+        "Object"
+    ],
+    "सेचन": [
+        "Activity"
+    ],
+    "विलेपन": [
+        "Activity"
+    ],
+    "हरिद्राचूर्ण": [
+        "Medical_Concept"
+    ],
+    "छिड़कना": [
+        "Activity"
+    ],
+    "गोपा": [
+        "Social_Group_and_Role"
+    ],
+    "मक्खन": [
+        "Food"
+    ],
+    "बाग-बगीचे": [
+        "Location"
+    ],
+    "ऋतुराज": [
+        "Concept"
+    ],
+    "चप्पे-चप्पे": [
+        "Geographical_Feature"
+    ],
+    "हरियाली": [
+        "Concept"
+    ],
+    "गोकुल": [
+        "Geographical_Feature"
+    ],
+    "ग्वाल-बाल": [
+        "Social_Group_and_Role"
+    ],
+    "बाल्य-जीवन": [
+        "Concept"
+    ],
+    "सिन्धु": [
+        "Geographical_Feature"
+    ],
+    "गोदावरी": [
+        "Geographical_Feature"
+    ],
+    "कावेरी": [
+        "Geographical_Feature"
+    ],
+    "वन": [
+        "Geographical_Feature"
+    ],
+    "उपवन": [
+        "Geographical_Feature"
+    ],
+    "पल्लवित": [
+        "Concept"
+    ],
+    "फलित": [
+        "Concept"
+    ],
+    "अनुपम शोभा": [
+        "Concept"
+    ],
+    "मरुस्थल": [
+        "Geographical_Feature"
+    ],
+    "पवित्र नदियों": [
+        "Geographical_Feature"
+    ],
+    "परिसर": [
+        "Concept"
+    ],
+    "दर्शक": [
+        "Living_Being"
+    ],
+    "मनोरंजन": [
+        "Concept"
+    ],
+    "प्रभु": [
+        "Mythical_Entity"
+    ],
+    "कार्य-क्षमता": [
+        "Concept"
+    ],
+    "निराशा": [
+        "Emotions"
+    ],
+    "सुभिक्ष": [
+        "Concept"
+    ],
+    "दुर्भिक्ष": [
+        "Concept"
+    ],
+    "अकाल": [
+        "Concept"
+    ],
+    "संचार": [
+        "Concept"
+    ],
+    "फलने": [
+        "Concept"
+    ],
+    "आशापूर्ण": [
+        "Concept"
+    ],
+    "प्रकाश-रूप": [
+        "Mythical_Entity"
+    ],
+    "करनेवालों": [
+        "Social_Group_and_Role"
+    ],
+    "श्रुति": [
+        "Living_Being"
+    ],
+    "आसुरी वेला": [
+        "Time"
+    ],
+    "अन्धन्तम": [
+        "Mythical_Entity"
+    ],
+    "अधिकारी जीवों": [
+        "Social_Group_and_Role"
+    ],
+    "देवी जीवों": [
+        "Mythical_Entity"
+    ],
+    "आक्रमण": [
+        "Phenomenon"
+    ],
+    "सुरों": [
+        "Mythical_Entity"
+    ],
+    "परम दयालु": [
+        "Concept"
+    ],
+    "विनोदमयता": [
+        "Concept"
+    ],
+    "विनोद": [
+        "Concept"
+    ],
+    "भावुक भक्त-हृदय": [
+        "Social_Group_and_Role"
+    ],
+    "कंसासुर": [
+        "Mythical_Entity"
+    ],
+    "भीड़": [
+        "Social_Group_and_Role"
+    ],
+    "मल्लयुद्ध": [
+        "Event"
+    ],
+    "कंस": [
+        "Living_Being"
+    ],
+    "मधुसूदन": [
+        "Living_Being"
+    ],
+    "देवकीजी": [
+        "Mythical_Entity"
+    ],
+    "शरणागत": [
+        "Social_Group_and_Role"
+    ],
+    "बादल": [
+        "Phenomenon"
+    ],
+    "नीरोग": [
+        "Medical_Concept"
+    ],
+    "देवकी देवी": [
+        "Mythical_Entity"
+    ],
+    "सूतिकागृह": [
+        "Object"
+    ],
+    "रस्सी": [
+        "Object"
+    ],
+    "झाँझ": [
+        "Object"
+    ],
+    "दरवाजे": [
+        "Object"
+    ],
+    "मुसल": [
+        "Object"
+    ],
+    "दीप": [
+        "Object"
+    ],
+    "गोप-गोपीजन": [
+        "Social_Group_and_Role"
+    ],
+    "यशोदा": [
+        "Living_Being"
+    ],
+    "सूतिका-गृह": [
+        "Object"
+    ],
+    "गोप": [
+        "Social_Group_and_Role"
+    ],
+    "माता देवकी": [
+        "Living_Being"
+    ],
+    "तप्तसुवर्ण": [
+        "Object"
+    ],
+    "स्तन": [
+        "Body_part"
+    ],
+    "नील-कमल की पंखड़ी": [
+        "Concept"
+    ],
+    "श्याम": [
+        "Concept"
+    ],
+    "तत्कालप्रसूत श्रेष्ठ कन्या": [
+        "Living_Being"
+    ],
+    "विद्याधर": [
+        "Mythical_Entity"
+    ],
+    "परकोटे": [
+        "Geographical_Feature"
+    ],
+    "नन्दाय जी": [
+        "Mythical_Entity"
+    ],
+    "दक्ष प्रजापति": [
+        "Mythical_Entity"
+    ],
+    "गर्गाचार्य": [
+        "Mythical_Entity"
+    ],
+    "कालनेमि": [
+        "Mythical_Entity"
+    ],
+    "अक्षत": [
+        "Object"
+    ],
+    "कूष्माण्ड": [
+        "Food"
+    ],
+    "नारियल": [
+        "Food"
+    ],
+    "छुहारे": [
+        "Food"
+    ],
+    "बिजोरे": [
+        "Food"
+    ],
+    "सुपारी": [
+        "Food"
+    ],
+    "देवकी जी": [
+        "Mythical_Entity"
+    ],
+    "नमो देव्यै श्रियै": [
+        "Sanskrit_text"
+    ],
+    "द्विजाति लोग": [
+        "Social_Group_and_Role"
+    ],
+    "ॐ वसुदेवाय नमः": [
+        "Sanskrit_text"
+    ],
+    "ॐ सुद्रायै तमः": [
+        "Sanskrit_text"
+    ],
+    "ॐ नन्दाय नमः": [
+        "Sanskrit_text"
+    ],
+    "अनुलेपन": [
+        "Object"
+    ],
+    "धर्मेश्वराय धर्मसंभवाय धर्मपतये गोविन्दाय नमः": [
+        "Sanskrit_text"
+    ],
+    "क्षीरोदार्णव संमृत अत्रिनेत्रसमुद्भव। गृहाणाध्य शशाङ्क ! त्वं रोहियया सहितो मम॥": [
+        "Sanskrit_text"
+    ],
+    "वेदी": [
+        "Object"
+    ],
+    "यशोदा-नन्द": [
+        "Social_Group_and_Role"
+    ],
+    "वसोर्धारा": [
+        "Activity"
+    ],
+    "वर्धापन": [
+        "Activity"
+    ],
+    "धर्मनन्दन": [
+        "Mythical_Entity"
+    ],
+    "भवन": [
+        "Object"
+    ],
+    "गन्ने": [
+        "Food"
+    ],
+    "शत्रुओं": [
+        "Concept"
+    ],
+    "ईतियों": [
+        "Social_Group_and_Role"
+    ],
+    "मुर्दे": [
+        "Object"
+    ],
+    "विधवापन": [
+        "Concept"
+    ],
+    "विष्णु-लोक": [
+        "Celestial_Entity"
+    ],
+    "नन्द्राय जी": [
+        "Living_Being"
+    ],
+    "'अनादिं वामनं शौरिं वैकुण्ठं पुरुषोत्तमम्। श्रीवत्सांकं जगत्सेतुं श्रीधरं श्रीपतिं हरिम्॥'": [
+        "Sanskrit_text"
+    ],
+    "'क्षीरोदार्णव संमृत अत्रिनेत्रसमुद्भव'": [
+        "Sanskrit_text"
+    ],
+    "'धर्मेश्वराय धर्मसंभवाय धर्मपतये गोविन्दाय नमो नमः'": [
+        "Sanskrit_text"
+    ],
+    "जल के घड़े": [
+        "Object"
+    ],
+    "मंगल कलश": [
+        "Object"
+    ],
+    "सुवर्ण के भार से बनाया गया नाग": [
+        "Object"
+    ],
+    "सूर्य का अग्नि": [
+        "Primordial_Element"
+    ]
+}

@@ -1,0 +1,2692 @@
+{
+  "celestial_phenomenon|celestial_phenomenon": [
+    "marks_start_of"
+  ],
+  "celestial_phenomenon|festival": [
+    "marks_start_of",
+    "excludes_observance",
+    "excluded_during_upakarma"
+  ],
+  "celestial_phenomenon|special_date": [
+    "marks_start_of",
+    "excludes_upakarma",
+    "upakarma_excluded_on",
+    "excludes_observance",
+    "excluded_during_upakarma"
+  ],
+  "celestial_phenomenon|generic_date": [
+    "determined_by",
+    "aligned_with",
+    "prohibited_on"
+  ],
+  "festival|generic_date": [
+    "determined_by",
+    "celebrated_on",
+    "conditioned_by",
+    "prohibits_during",
+    "prohibits",
+    "prohibited_during",
+    "follows"
+  ],
+  "special_date|generic_date": [
+    "determined_by",
+    "prohibits",
+    "conditioned_by",
+    "celebrated_on",
+    "prohibits_during",
+    "prohibited_during",
+    "follows"
+  ],
+  "generic_date|celestial_phenomenon": [
+    "determined_by",
+    "aligned_with",
+    "prohibited_on"
+  ],
+  "generic_date|festival": [
+    "determined_by",
+    "celebrated_on",
+    "conditioned_by",
+    "prohibits_during",
+    "prohibited_during",
+    "follows"
+  ],
+  "generic_date|special_date": [
+    "determined_by",
+    "prohibits",
+    "conditioned_by",
+    "celebrated_on",
+    "prohibits_during",
+    "prohibited_during",
+    "follows"
+  ],
+  "generic_date|month": [
+    "not_affected_by",
+    "occurs_on",
+    "occurs_during"
+  ],
+  "month|measurement_unit": [
+    "occurs_in",
+    "starts_in"
+  ],
+  "measurement_unit|month": [
+    "occurs_in",
+    "starts_in"
+  ],
+  "generic_date|ritual_activity": [
+    "performed_on",
+    "triggered_by",
+    "condition_for",
+    "prohibited_in",
+    "occurs_during",
+    "occurs_on"
+  ],
+  "ritual_activity|generic_date": [
+    "performed_on",
+    "triggered_by",
+    "condition_for",
+    "prohibits",
+    "prohibited_in",
+    "occurs_during",
+    "occurs_on"
+  ],
+  "generic_date|mundane_activity": [
+    "performed_on",
+    "not_performed_on",
+    "triggered_by"
+  ],
+  "mundane_activity|generic_date": [
+    "performed_on",
+    "occurs_during",
+    "not_performed_on",
+    "leads_to"
+  ],
+  "Mythical_Entity|attribute": [
+    "is",
+    "gave_warmth_to",
+    "distressed_by",
+    "occurs_when",
+    "prevented_by",
+    "renounces",
+    "has_attribute",
+    "embodied_in",
+    "prevents",
+    "destroyed_by",
+    "symbolizes",
+    "brings_benefits",
+    "brings_greenery",
+    "brings_beauty",
+    "gives_attribute",
+    "signifies"
+  ],
+  "attribute|attribute": [
+    "is",
+    "has_attribute",
+    "embodied_in",
+    "renounces",
+    "prevented_by",
+    "gives_attribute"
+  ],
+  "Mythical_Entity|Mythical_Entity": [
+    "gave_warmth_to",
+    "got_given_warmth_by",
+    "occurs_near",
+    "prevents",
+    "renounces",
+    "occurs_during",
+    "named_as",
+    "beautifies",
+    "gives_attribute"
+  ],
+  "season|Mythical_Entity": [
+    "gave_warmth_to",
+    "starts_during",
+    "occurs_near",
+    "is_one_of",
+    "beautifies",
+    "is_named_as",
+    "gives_attribute"
+  ],
+  "season|attribute": [
+    "gave_warmth_to",
+    "brings_benefits",
+    "brings_greenery",
+    "brings_beauty",
+    "gives_attribute",
+    "improves"
+  ],
+  "Mythical_Entity|season": [
+    "gave_warmth_to",
+    "got_given_warmth_by",
+    "occurs_near",
+    "is_one_of",
+    "occurs_during",
+    "named_as",
+    "beautifies",
+    "is_named_as"
+  ],
+  "attribute|Mythical_Entity": [
+    "gave_warmth_to",
+    "distressed_by",
+    "has_attribute",
+    "got_given_warmth_by",
+    "prevents",
+    "renounces",
+    "embodied_in",
+    "protects",
+    "symbolizes",
+    "prevented_by",
+    "brings_benefits",
+    "brings_greenery",
+    "gives_attribute",
+    "signifies"
+  ],
+  "attribute|season": [
+    "gave_warmth_to",
+    "got_given_warmth_by",
+    "brings_benefits",
+    "brings_greenery",
+    "has_attribute",
+    "brings_beauty",
+    "gives_attribute",
+    "improves"
+  ],
+  "day|action_process": [
+    "marked_creation_of",
+    "marks_start_of",
+    "performed_on"
+  ],
+  "action_process|day": [
+    "marks_start_of",
+    "performed_on",
+    "marks"
+  ],
+  "day|mundane_activity": [
+    "marks_start_of",
+    "marks"
+  ],
+  "mundane_activity|day": [
+    "marks_start_of",
+    "performed_on",
+    "marks"
+  ],
+  "action_process|action_process": [
+    "began",
+    "preferred_over",
+    "discussed_in",
+    "required_during"
+  ],
+  "mundane_activity|action_process": [
+    "began",
+    "precedes",
+    "required_during"
+  ],
+  "action_process|abstract_concept": [
+    "requires_warmth_for_beginning"
+  ],
+  "mundane_activity|abstract_concept": [
+    "requires_warmth_for_beginning"
+  ],
+  "season|season": [
+    "starts_during",
+    "gave_warmth_to",
+    "occurs_near",
+    "is_one_of"
+  ],
+  "Mythical_Entity|special_date": [
+    "starts_during",
+    "celebrates",
+    "described_in",
+    "used_on",
+    "occurs_during",
+    "describes_conditions_for",
+    "included_in"
+  ],
+  "season|special_date": [
+    "starts_during",
+    "occurs_during",
+    "described_in"
+  ],
+  "special_date|Mythical_Entity": [
+    "starts_during",
+    "celebrates",
+    "described_in",
+    "occurs_during"
+  ],
+  "special_date|season": [
+    "starts_during",
+    "occurs_during",
+    "described_in"
+  ],
+  "season|month": [
+    "occurs_during",
+    "first_month_of"
+  ],
+  "month|season": [
+    "occurs_during",
+    "first_month_of"
+  ],
+  "month|month": [
+    "occurs_with",
+    "is_a",
+    "is_pratham_māsa_of",
+    "precedes",
+    "follows"
+  ],
+  "month|special_date": [
+    "starts_in",
+    "occurs_in"
+  ],
+  "special_date|month": [
+    "starts_in",
+    "occurs_in"
+  ],
+  "month|plant": [
+    "appear_during",
+    "occurs_during",
+    "receives_in"
+  ],
+  "plant|month": [
+    "appear_during",
+    "occurs_during",
+    "receives_in"
+  ],
+  "disease|mundane_activity": [
+    "used_in_dealing_with",
+    "dealt_with_by",
+    "deals_with",
+    "improves",
+    "improved_by",
+    "removed_by",
+    "treated_with"
+  ],
+  "mundane_activity|disease": [
+    "used_in_dealing_with",
+    "improves",
+    "improved_by",
+    "removed_by"
+  ],
+  "disease|remedy": [
+    "dealt_with_by",
+    "used_in_dealing_with",
+    "improves",
+    "removed_by",
+    "improved_by"
+  ],
+  "remedy|disease": [
+    "used_in_dealing_with",
+    "improves",
+    "improved_by",
+    "removed_by"
+  ],
+  "human_individual|mundane_activity": [
+    "recommends",
+    "did_not_undergo",
+    "did_not_perform"
+  ],
+  "mundane_activity|human_individual": [
+    "recommends",
+    "did_not_undergo",
+    "did_not_perform"
+  ],
+  "human_individual|remedy": [
+    "recommends"
+  ],
+  "remedy|human_individual": [
+    "recommends"
+  ],
+  "mundane_activity|mundane_activity": [
+    "is_synonym_of",
+    "involves"
+  ],
+  "mundane_activity|remedy": [
+    "is_synonym_of"
+  ],
+  "remedy|mundane_activity": [
+    "is_synonym_of",
+    "involves",
+    "sprinkled_with"
+  ],
+  "mundane_activity|state": [
+    "reduces"
+  ],
+  "state|mundane_activity": [
+    "reduces"
+  ],
+  "mundane_activity|symptom_physical": [
+    "treats",
+    "prevents"
+  ],
+  "state|remedy": [
+    "reduces"
+  ],
+  "remedy|symptom_physical": [
+    "treats",
+    "prevents"
+  ],
+  "symptom_physical|mundane_activity": [
+    "treats",
+    "treated_by",
+    "prevents"
+  ],
+  "symptom_physical|remedy": [
+    "treats",
+    "treated_by",
+    "prevents"
+  ],
+  "mundane_activity|attribute": [
+    "improves",
+    "sanctioned_by",
+    "yields",
+    "overcomes",
+    "prohibited_with",
+    "used_during",
+    "described_in",
+    "is_described_as",
+    "leads_to"
+  ],
+  "attribute|mundane_activity": [
+    "improves",
+    "sanctioned_by",
+    "yields",
+    "improved_by",
+    "overcomes",
+    "used_during",
+    "is_a",
+    "described_in",
+    "performed_towards",
+    "is_upkarak",
+    "leads_to"
+  ],
+  "symptom_mental|mundane_activity": [
+    "promotes",
+    "promoted_by"
+  ],
+  "remedy|attribute": [
+    "improves"
+  ],
+  "attribute|remedy": [
+    "improves",
+    "improved_by"
+  ],
+  "symptom_mental|remedy": [
+    "promoted_by",
+    "promotes"
+  ],
+  "festival|ritual_activity": [
+    "includes",
+    "leads_to_smruti",
+    "leads_to",
+    "equivalent_to",
+    "equivalent_benefits_to",
+    "performed_during",
+    "involves",
+    "occurs_during",
+    "performed_for",
+    "not_performed_on",
+    "pertains_to",
+    "described_in"
+  ],
+  "ritual_activity|festival": [
+    "includes",
+    "performed_on",
+    "equivalent_to",
+    "equivalent_benefits_to",
+    "performed_during",
+    "occurs_during",
+    "involves",
+    "pertains_to",
+    "described_in"
+  ],
+  "measurement_unit|knowledge_linguistic": [
+    "understood_by",
+    "has_parts"
+  ],
+  "measurement_unit|ritual_activity": [
+    "used_for_determining",
+    "occurs_at",
+    "given_according_to",
+    "required_during"
+  ],
+  "ritual_activity|measurement_unit": [
+    "used_for_determining",
+    "occurs_at",
+    "given_according_to",
+    "required_during"
+  ],
+  "knowledge_linguistic|ritual_activity": [
+    "used_for",
+    "applies_to",
+    "is_about",
+    "does_not_require",
+    "requires",
+    "purified_in"
+  ],
+  "ritual_activity|knowledge_linguistic": [
+    "used_for",
+    "applies_to",
+    "is_about",
+    "involves",
+    "does_not_require",
+    "requires",
+    "purified_in"
+  ],
+  "ritual_activity|attribute": [
+    "symbolizes",
+    "involves",
+    "requires",
+    "alternative_to",
+    "has_attribute",
+    "destroys",
+    "leads_to",
+    "equivalent_to",
+    "does_not_require",
+    "involves_avoiding"
+  ],
+  "attribute|ritual_activity": [
+    "symbolizes",
+    "involves",
+    "requires",
+    "alternative_to",
+    "has_attribute",
+    "destroys",
+    "leads_to",
+    "equivalent_to",
+    "does_not_require",
+    "involves_avoiding",
+    "performs",
+    "worshipped_through"
+  ],
+  "ritual_activity|Mythical_Entity": [
+    "symbolizes",
+    "causes_increase",
+    "destroys",
+    "uses",
+    "involves",
+    "renounces",
+    "occurs_during",
+    "requires"
+  ],
+  "Mythical_Entity|ritual_activity": [
+    "symbolizes",
+    "destroys",
+    "uses",
+    "involves",
+    "renounces",
+    "applies_to",
+    "requires",
+    "occurs_during"
+  ],
+  "knowledge_linguistic|mundane_activity": [
+    "involves",
+    "approved_by",
+    "guided_by",
+    "guides"
+  ],
+  "mundane_activity|knowledge_linguistic": [
+    "involves",
+    "approved_by",
+    "recommended_for"
+  ],
+  "deity|ritual_activity": [
+    "is_worshipped_by",
+    "performed_on",
+    "performed_for",
+    "given_according_to",
+    "remembered_by",
+    "describes",
+    "is_performed_for",
+    "remembered_during",
+    "is_worshipped_on",
+    "appeared_during"
+  ],
+  "ritual_activity|deity": [
+    "is_worshipped_by",
+    "performed_for",
+    "given_according_to",
+    "purifies_when_seen",
+    "remembered_by",
+    "describes",
+    "is_performed_for",
+    "remembered_during",
+    "appeared_during"
+  ],
+  "celestial_phenomenon|action_process": [
+    "marks_beginning_of"
+  ],
+  "festival|action_process": [
+    "marks_beginning_of",
+    "leads_to",
+    "includes",
+    "involves",
+    "described_in",
+    "performed_during"
+  ],
+  "special_date|action_process": [
+    "marks_beginning_of",
+    "leads_to",
+    "performed_on",
+    "involves",
+    "described_in",
+    "performed_during"
+  ],
+  "action_process|celestial_phenomenon": [
+    "marks_beginning_of"
+  ],
+  "action_process|festival": [
+    "marks_beginning_of",
+    "performed_on",
+    "equivalent_benefits_to",
+    "performed_during",
+    "includes",
+    "involves",
+    "performed_for",
+    "describes_conditions_for",
+    "described_in"
+  ],
+  "action_process|special_date": [
+    "marks_beginning_of",
+    "performed_on",
+    "equivalent_benefits_to",
+    "performed_for",
+    "involves",
+    "describes_conditions_for",
+    "described_in"
+  ],
+  "deity|action_process": [
+    "creator_of",
+    "overseer_of",
+    "given_according_to"
+  ],
+  "action_process|deity": [
+    "overseer_of",
+    "given_according_to"
+  ],
+  "being_class|deity": [
+    "is_instance_of",
+    "is_deity_of_creation",
+    "provided_to",
+    "merged_with",
+    "defeated_along_with"
+  ],
+  "knowledge_linguistic|knowledge_linguistic": [
+    "has_meaning",
+    "focus_of"
+  ],
+  "mundane_activity|Mythical_Entity": [
+    "motivates_towards",
+    "recommended_for",
+    "overcomes",
+    "follows_after",
+    "a_type_of",
+    "involves"
+  ],
+  "Mythical_Entity|mundane_activity": [
+    "motivates_towards",
+    "overcomes",
+    "recommended_for",
+    "a_type_of",
+    "guides"
+  ],
+  "deity|month": [
+    "created_at",
+    "assigned",
+    "happens_within"
+  ],
+  "month|deity": [
+    "created_on",
+    "assigned",
+    "happens_within"
+  ],
+  "deity|moon_phase": [
+    "created_at",
+    "created_at_sunrise_of",
+    "provided",
+    "worshiped_during",
+    "is_avatar_of",
+    "shared_avatar_of",
+    "appeared_during",
+    "appearance_similar_to",
+    "has_mark",
+    "has_attribute"
+  ],
+  "deity|generic_date": [
+    "created_at",
+    "created_on",
+    "calculation_began_on",
+    "worshipped_on",
+    "considers_holy",
+    "marked_by",
+    "appearance_occurs_on"
+  ],
+  "generic_date|deity": [
+    "creation_occurred_on",
+    "created_on",
+    "worshipped_on",
+    "considers_holy",
+    "marked_by"
+  ],
+  "deity|celestial_phenomenon": [
+    "at_time_of"
+  ],
+  "celestial_phenomenon|deity": [
+    "at_time_of"
+  ],
+  "deity|Mythical_Entity": [
+    "created",
+    "provided",
+    "has_birthday",
+    "appears_when",
+    "destroys",
+    "born_during",
+    "associated_with",
+    "appears_near",
+    "has_attribute",
+    "provides",
+    "increased",
+    "defeated_in",
+    "leaves",
+    "appears_during",
+    "spent_childhood_in",
+    "appeared",
+    "appeared_during",
+    "appears_on"
+  ],
+  "deity|abstract_concept": [
+    "created",
+    "seen_by",
+    "described_as",
+    "has_attribute"
+  ],
+  "Mythical_Entity|deity": [
+    "created",
+    "provided",
+    "appears_when",
+    "destroys",
+    "born_during",
+    "appears_near",
+    "possessed_by",
+    "provides",
+    "increased",
+    "defeated_in",
+    "leaves",
+    "left",
+    "has_attribute",
+    "appears_during",
+    "appeared_during",
+    "occurs_to",
+    "appears_on",
+    "removes"
+  ],
+  "abstract_concept|deity": [
+    "created",
+    "seen_by",
+    "is_referred_to_as"
+  ],
+  "month|moon_phase": [
+    "within",
+    "happens_within"
+  ],
+  "moon_phase|month": [
+    "within",
+    "happens_within"
+  ],
+  "month|generic_date": [
+    "occurs_on",
+    "not_affected_by"
+  ],
+  "month|celestial_phenomenon": [
+    "occurs_during"
+  ],
+  "celestial_phenomenon|month": [
+    "occurs_during"
+  ],
+  "moon_phase|generic_date": [
+    "includes",
+    "included_in",
+    "leads_to_fasting_on",
+    "extends_into"
+  ],
+  "generic_date|moon_phase": [
+    "includes",
+    "included_in",
+    "leads_to_fasting_on",
+    "extends_into"
+  ],
+  "celestial_phenomenon|moon_phase": [
+    "marks_the_beginning_of",
+    "occurs_after",
+    "occurs_at"
+  ],
+  "remedy|state": [
+    "reduces"
+  ],
+  "mundane_activity|symptom_mental": [
+    "promotes"
+  ],
+  "remedy|symptom_mental": [
+    "promotes"
+  ],
+  "deity|knowledge_linguistic": [
+    "creation_deity",
+    "has_parts",
+    "is_avatar_of",
+    "is_instance_of",
+    "appeared_during",
+    "appears_on"
+  ],
+  "moon_phase|deity": [
+    "created_at_sunrise_of",
+    "provided",
+    "worshiped_during",
+    "is_avatar_of",
+    "shared_avatar_of",
+    "appeared_during",
+    "appearance_similar_to",
+    "has_mark",
+    "has_attribute"
+  ],
+  "moon_phase|celestial_phenomenon": [
+    "marks_the_beginning_of",
+    "occurs_after",
+    "occurs_at",
+    "occurs_before"
+  ],
+  "generic_date|Mythical_Entity": [
+    "created_on",
+    "occurs_on",
+    "marks_beginning_of"
+  ],
+  "generic_date|abstract_concept": [
+    "created_on"
+  ],
+  "Mythical_Entity|generic_date": [
+    "created_on",
+    "occurs_on"
+  ],
+  "abstract_concept|generic_date": [
+    "created_on"
+  ],
+  "measure_quantity|generic_date": [
+    "calculation_began_on",
+    "worshipped_on",
+    "indicated_by"
+  ],
+  "measurement_unit|generic_date": [
+    "calculation_began_on",
+    "worshipped_on",
+    "celebrated_during",
+    "occurs_during",
+    "measured_as"
+  ],
+  "celestial_phenomenon|Mythical_Entity": [
+    "created_at"
+  ],
+  "celestial_phenomenon|abstract_concept": [
+    "created_at"
+  ],
+  "Mythical_Entity|celestial_phenomenon": [
+    "created_at"
+  ],
+  "abstract_concept|celestial_phenomenon": [
+    "created_at"
+  ],
+  "measure_quantity|celestial_phenomenon": [
+    "at_time_of"
+  ],
+  "measurement_unit|celestial_phenomenon": [
+    "at_time_of"
+  ],
+  "deity|being_class": [
+    "provided_to",
+    "merged_with",
+    "defeated_along_with"
+  ],
+  "deity|season": [
+    "provided",
+    "associated_with",
+    "appears_during",
+    "appears_near",
+    "prefers"
+  ],
+  "season|deity": [
+    "provided",
+    "appears_near",
+    "appears_during",
+    "prefers"
+  ],
+  "being_class|Mythical_Entity": [
+    "received_grahas",
+    "provided_to",
+    "used_for",
+    "participated_in"
+  ],
+  "Mythical_Entity|being_class": [
+    "provided_to",
+    "used_for",
+    "participated_in",
+    "won",
+    "is_of_class"
+  ],
+  "being_class|season": [
+    "provided_to"
+  ],
+  "season|being_class": [
+    "provided_to"
+  ],
+  "being_class|month": [
+    "received"
+  ],
+  "month|being_class": [
+    "given_to"
+  ],
+  "being_class|moon_phase": [
+    "received_paksha"
+  ],
+  "moon_phase|being_class": [
+    "provided_to"
+  ],
+  "moon_phase|measure_quantity": [
+    "worshiped_during"
+  ],
+  "moon_phase|measurement_unit": [
+    "worshiped_during"
+  ],
+  "measure_quantity|moon_phase": [
+    "worshiped_during"
+  ],
+  "measurement_unit|moon_phase": [
+    "worshiped_during",
+    "occurs_during"
+  ],
+  "generic_date|measure_quantity": [
+    "worshipped_on",
+    "indicated_by"
+  ],
+  "generic_date|measurement_unit": [
+    "worshipped_on",
+    "celebrated_during",
+    "falls_during",
+    "falls_on"
+  ],
+  "deity|deity": [
+    "worshipped_with",
+    "manifests_as",
+    "is_avatar_of",
+    "shared_avatar_of",
+    "increased_lifespan_of",
+    "is_instance_of",
+    "is",
+    "has_mark",
+    "has_attribute"
+  ],
+  "deity|measure_quantity": [
+    "worshipped_with",
+    "provides",
+    "increased",
+    "gave_up"
+  ],
+  "deity|measurement_unit": [
+    "worshipped_with",
+    "occurred_during"
+  ],
+  "measure_quantity|deity": [
+    "worshipped_with",
+    "provides",
+    "increased",
+    "gave_up"
+  ],
+  "measurement_unit|deity": [
+    "worshipped_with",
+    "occurred_during"
+  ],
+  "measure_quantity|knowledge_linguistic": [
+    "has_parts"
+  ],
+  "knowledge_linguistic|deity": [
+    "has_parts",
+    "is_avatar_of",
+    "is_instance_of",
+    "appeared_during",
+    "appears_on"
+  ],
+  "knowledge_linguistic|measure_quantity": [
+    "has_parts"
+  ],
+  "knowledge_linguistic|measurement_unit": [
+    "has_parts",
+    "involves"
+  ],
+  "human_generic|abstract_concept": [
+    "follows"
+  ],
+  "festival|festival": [
+    "observed_on",
+    "celebrated_on",
+    "is_a",
+    "equivalent_benefits_to",
+    "describes_celebration_of",
+    "described_in_context_of",
+    "celebrated_as",
+    "includes_activity"
+  ],
+  "festival|special_date": [
+    "observed_on",
+    "celebrated_on",
+    "is_a",
+    "equivalent_benefits_to",
+    "described_in_context_of",
+    "celebrated_as"
+  ],
+  "ritual_activity|day": [
+    "performed_on"
+  ],
+  "day|generic_date": [
+    "observed_on",
+    "occurs_on",
+    "ends_on",
+    "follows_after"
+  ],
+  "day|ritual_activity": [
+    "performed_on"
+  ],
+  "day|measurement_unit": [
+    "contains"
+  ],
+  "generic_date|day": [
+    "occurs_on",
+    "happens_on"
+  ],
+  "day|special_date": [
+    "conducted_on",
+    "occurs_on",
+    "can_fall_on",
+    "does_not_fall_on",
+    "falls_on"
+  ],
+  "special_date|day": [
+    "conducted_on",
+    "occurs_on",
+    "can_fall_on",
+    "does_not_fall_on",
+    "falls_on",
+    "is_a"
+  ],
+  "special_date|special_date": [
+    "performed_during",
+    "not_performed_as"
+  ],
+  "festival|day": [
+    "occurs_on"
+  ],
+  "day|festival": [
+    "occurs_on"
+  ],
+  "festival|nakshatra": [
+    "coincides_with"
+  ],
+  "special_date|nakshatra": [
+    "coincides_with",
+    "does_not_coincide_with"
+  ],
+  "nakshatra|festival": [
+    "coincides_with"
+  ],
+  "nakshatra|special_date": [
+    "coincides_with",
+    "falls_on",
+    "does_not_coincide_with"
+  ],
+  "festival|measurement_unit": [
+    "occurs_during",
+    "involves",
+    "includes"
+  ],
+  "special_date|measurement_unit": [
+    "occurs_during"
+  ],
+  "special_date|ritual_activity": [
+    "includes",
+    "leads_to_smruti",
+    "leads_to",
+    "performed_during",
+    "performed_on",
+    "not_performed_on",
+    "pertains_to",
+    "described_in",
+    "involves"
+  ],
+  "ritual_activity|special_date": [
+    "includes",
+    "performed_on",
+    "equivalent_benefits_to",
+    "performed_during",
+    "not_performed_on",
+    "not_prohibited_on",
+    "pertains_to",
+    "described_in",
+    "involves"
+  ],
+  "festival|deity": [
+    "commemorates_birth_of",
+    "seen_on",
+    "worshipped_on",
+    "occurs_on",
+    "occurs_during",
+    "celebrates_appearance_of",
+    "celebrates"
+  ],
+  "special_date|deity": [
+    "commemorates_birth_of",
+    "seen_on",
+    "occurs_on",
+    "occurs_during"
+  ],
+  "deity|festival": [
+    "commemorates_birth_of",
+    "seen_on",
+    "worshipped_on",
+    "occurs_on"
+  ],
+  "deity|special_date": [
+    "commemorates_birth_of",
+    "seen_on",
+    "worshipped_on",
+    "occurs_on"
+  ],
+  "festival|Mythical_Entity": [
+    "celebrates",
+    "described_in",
+    "includes",
+    "condition_is",
+    "condition_for",
+    "protected_by"
+  ],
+  "Mythical_Entity|festival": [
+    "celebrates",
+    "described_in",
+    "includes",
+    "condition_for",
+    "protected_by",
+    "describes_conditions_for",
+    "included_in"
+  ],
+  "deity|metaphysical_entity": [
+    "incarnation_of"
+  ],
+  "metaphysical_entity|deity": [
+    "incarnation_of"
+  ],
+  "deity|avatar": [
+    "is_avatar_of",
+    "is_instance_of"
+  ],
+  "deity|mythical_living_being": [
+    "is_avatar_of",
+    "is_instance_of",
+    "shared_avatar_of",
+    "asked_by",
+    "asked",
+    "merged_into",
+    "attains",
+    "told_to",
+    "has_mark",
+    "has_attribute"
+  ],
+  "avatar|deity": [
+    "is_avatar_of",
+    "is_instance_of"
+  ],
+  "mythical_living_being|deity": [
+    "is_avatar_of",
+    "is_instance_of",
+    "shared_avatar_of",
+    "asked",
+    "merged_into",
+    "attains",
+    "told_to",
+    "is",
+    "has_mark",
+    "has_attribute"
+  ],
+  "metaphysical_entity|avatar": [
+    "avatar_of"
+  ],
+  "metaphysical_entity|knowledge_linguistic": [
+    "avatar_of"
+  ],
+  "metaphysical_entity|mythical_living_being": [
+    "avatar_of"
+  ],
+  "knowledge_linguistic|festival": [
+    "required_to_understand",
+    "described_in",
+    "about",
+    "included_in"
+  ],
+  "knowledge_linguistic|special_date": [
+    "required_to_understand",
+    "described_in",
+    "about",
+    "included_in"
+  ],
+  "festival|knowledge_linguistic": [
+    "required_to_understand",
+    "described_in",
+    "has_opinion_about"
+  ],
+  "special_date|knowledge_linguistic": [
+    "required_to_understand",
+    "described_in",
+    "has_opinion_about"
+  ],
+  "special_date|festival": [
+    "is_a",
+    "celebrated_on",
+    "observed_on",
+    "describes_celebration_of",
+    "equivalent_benefits_to",
+    "described_in_context_of",
+    "celebrated_as"
+  ],
+  "festival|attribute": [
+    "explained_by",
+    "attained_on",
+    "obtained_from",
+    "has_disagreement",
+    "includes",
+    "protects_from",
+    "protected_by",
+    "exists_for",
+    "involves",
+    "has_attribute",
+    "celebrates"
+  ],
+  "special_date|attribute": [
+    "explained_by",
+    "attained_on",
+    "mentioned_in",
+    "has_attribute"
+  ],
+  "attribute|festival": [
+    "understood_with",
+    "attained_on",
+    "obtained_from",
+    "has_disagreement",
+    "exists_for",
+    "includes",
+    "explains",
+    "protects_from",
+    "protected_by",
+    "celebrates",
+    "marks",
+    "involves",
+    "has_attribute"
+  ],
+  "attribute|special_date": [
+    "understood_with",
+    "attained_on",
+    "involves",
+    "has_attribute"
+  ],
+  "avatar|attribute": [
+    "possesses",
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of"
+  ],
+  "mythical_living_being|attribute": [
+    "possesses",
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of",
+    "has_attribute",
+    "appoints"
+  ],
+  "attribute|avatar": [
+    "possesses",
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of"
+  ],
+  "attribute|mythical_living_being": [
+    "possesses",
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of",
+    "has_attribute",
+    "appoints"
+  ],
+  "avatar|ritual_activity": [
+    "enabled_by",
+    "performed_on_occasion_of",
+    "led_to_devotion_by"
+  ],
+  "mythical_living_being|ritual_activity": [
+    "enabled_by",
+    "performed_on"
+  ],
+  "ritual_activity|avatar": [
+    "enabled_by",
+    "performed_on_occasion_of",
+    "led_to_devotion_towards",
+    "caused_by"
+  ],
+  "ritual_activity|mythical_living_being": [
+    "enabled_by",
+    "performed_on"
+  ],
+  "avatar|individual_figure": [
+    "is_a",
+    "is_an_avatar_for"
+  ],
+  "mythical_living_being|individual_figure": [
+    "is_a",
+    "is_an_avatar_for"
+  ],
+  "individual_figure|avatar": [
+    "is_an_example_of"
+  ],
+  "individual_figure|mythical_living_being": [
+    "is_an_example_of",
+    "is_ishtadev_for",
+    "is_an_avatar_for"
+  ],
+  "avatar|avatar": [
+    "is_instance_of",
+    "mixed_with",
+    "is_avatar_of"
+  ],
+  "avatar|mythical_living_being": [
+    "is_instance_of",
+    "mixed_with",
+    "is_avatar_of",
+    "is_an_avatar_for"
+  ],
+  "mythical_living_being|avatar": [
+    "is_instance_of",
+    "mixed_with",
+    "is_avatar_of"
+  ],
+  "mythical_living_being|mythical_living_being": [
+    "is_instance_of",
+    "is_avatar_of",
+    "shared_avatar_of",
+    "is_an_avatar_for"
+  ],
+  "individual_figure|ritual_activity": [
+    "performs_miraculous_deeds_due_to"
+  ],
+  "individual_figure|attribute": [
+    "has_authority_over",
+    "has_attribute",
+    "avatar_of"
+  ],
+  "attribute|individual_figure": [
+    "has_attribute",
+    "avatar_of"
+  ],
+  "individual_figure|individual_figure": [
+    "has_attribute"
+  ],
+  "avatar|human_generic": [
+    "establishes_glory_of"
+  ],
+  "knowledge_linguistic|attribute": [
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of",
+    "has_right",
+    "has_attribute",
+    "purified_in",
+    "signifies"
+  ],
+  "knowledge_linguistic|human_generic": [
+    "establishes_glory_of",
+    "purifies_sin_of",
+    "do_not_consider"
+  ],
+  "mythical_living_being|human_generic": [
+    "establishes_glory_of",
+    "is_ishtadev_of",
+    "has_attribute"
+  ],
+  "attribute|knowledge_linguistic": [
+    "establishes_glory_of",
+    "for_welfare_of",
+    "for_destruction_of",
+    "has_right",
+    "has_attribute",
+    "signifies"
+  ],
+  "human_generic|avatar": [
+    "establishes_glory_of"
+  ],
+  "human_generic|knowledge_linguistic": [
+    "establishes_glory_of",
+    "purifies_sin_of",
+    "do_not_consider"
+  ],
+  "human_generic|mythical_living_being": [
+    "establishes_glory_of",
+    "is_ishtadev_of",
+    "has_attribute"
+  ],
+  "Mythical_Entity|avatar": [
+    "benefits",
+    "appears_near"
+  ],
+  "Mythical_Entity|knowledge_linguistic": [
+    "benefits",
+    "destroys",
+    "has_summary"
+  ],
+  "Mythical_Entity|mythical_living_being": [
+    "benefits",
+    "born_during",
+    "appears_during",
+    "appoints"
+  ],
+  "abstract_concept|avatar": [
+    "benefits"
+  ],
+  "abstract_concept|knowledge_linguistic": [
+    "benefits"
+  ],
+  "abstract_concept|mythical_living_being": [
+    "benefits"
+  ],
+  "avatar|being_class": [
+    "destroys"
+  ],
+  "knowledge_linguistic|being_class": [
+    "destroys",
+    "became_devoid_of"
+  ],
+  "mythical_living_being|being_class": [
+    "destroys"
+  ],
+  "generic_date|state": [
+    "has_state",
+    "can_be_in_state"
+  ],
+  "state|generic_date": [
+    "has_state",
+    "can_be_in_state"
+  ],
+  "human_generic|state": [
+    "mental_activity_is_impaired",
+    "impacted_by"
+  ],
+  "state|symptom_mental": [
+    "impairs"
+  ],
+  "symptom_mental|state": [
+    "impairs"
+  ],
+  "state|human_generic": [
+    "mental_activity_is_impaired",
+    "contributes_to_longevity"
+  ],
+  "human_generic|symptom_mental": [
+    "impacted_by"
+  ],
+  "state|state": [
+    "balanced_by",
+    "equivalent_to"
+  ],
+  "attribute|deity": [
+    "for_welfare_of",
+    "for_destruction_of",
+    "destroys",
+    "possesses",
+    "has_attribute",
+    "possessed_by",
+    "associated_with",
+    "left",
+    "signifies",
+    "has_mark",
+    "removes",
+    "celebrates"
+  ],
+  "deity|attribute": [
+    "for_welfare_of",
+    "for_destruction_of",
+    "destroys",
+    "possesses",
+    "has_attribute",
+    "placed_in",
+    "represented_in",
+    "leaves",
+    "celebrates"
+  ],
+  "mundane_activity|ritual_activity": [
+    "given_up_in",
+    "includes",
+    "precedes",
+    "follows",
+    "has_benefits_of",
+    "included_in",
+    "marks_beginning_of",
+    "required_during"
+  ],
+  "state|ritual_activity": [
+    "given_up_in",
+    "includes",
+    "occurs_during",
+    "performed_during"
+  ],
+  "symptom_mental|ritual_activity": [
+    "given_up_in",
+    "includes"
+  ],
+  "ritual_activity|ritual_activity": [
+    "involves",
+    "defined_as",
+    "is_a",
+    "preferred_over",
+    "leads_to",
+    "follows",
+    "chants_about",
+    "marks_beginning_of"
+  ],
+  "action_process|ritual_activity": [
+    "involves",
+    "defined_as",
+    "preferred_over",
+    "leads_to",
+    "guides_for",
+    "marks_beginning_of",
+    "includes",
+    "required_during"
+  ],
+  "ritual_activity|action_process": [
+    "involves",
+    "defined_as",
+    "preferred_over",
+    "leads_to",
+    "guides_for",
+    "marks_beginning_of",
+    "required_during"
+  ],
+  "ritual_activity|mundane_activity": [
+    "given_up_in",
+    "precedes",
+    "performed_instead_of",
+    "follows",
+    "has_benefits_of",
+    "included_in",
+    "marks_beginning_of",
+    "required_during"
+  ],
+  "ritual_activity|state": [
+    "given_up_in",
+    "occurs_during",
+    "includes"
+  ],
+  "ritual_activity|symptom_mental": [
+    "given_up_in"
+  ],
+  "state|Mythical_Entity": [
+    "overcomes"
+  ],
+  "state|attribute": [
+    "overcomes"
+  ],
+  "symptom_mental|Mythical_Entity": [
+    "overcomes"
+  ],
+  "symptom_mental|attribute": [
+    "overcomes"
+  ],
+  "Mythical_Entity|state": [
+    "overcomes"
+  ],
+  "Mythical_Entity|symptom_mental": [
+    "overcomes"
+  ],
+  "attribute|state": [
+    "overcomes"
+  ],
+  "attribute|symptom_mental": [
+    "overcomes"
+  ],
+  "human_generic|attribute": [
+    "firm_in",
+    "needs",
+    "is_characterized_by",
+    "described_as",
+    "fulfills",
+    "receives_fruit",
+    "freed_from"
+  ],
+  "attribute|human_generic": [
+    "firm_in",
+    "described_as",
+    "is_characterized_by",
+    "desires_fulfilled_by",
+    "received_by",
+    "freed_from"
+  ],
+  "human_generic|mundane_activity": [
+    "impacted_by",
+    "participates_in",
+    "provides_benefits_of"
+  ],
+  "mundane_activity|human_generic": [
+    "contributes_to_longevity",
+    "participates_in",
+    "provides_benefits_of"
+  ],
+  "symptom_mental|human_generic": [
+    "contributes_to_longevity"
+  ],
+  "attribute|action_process": [
+    "requires",
+    "has_attribute",
+    "leads_to",
+    "prevents",
+    "does_not_require",
+    "is_a",
+    "symbol_of"
+  ],
+  "action_process|attribute": [
+    "requires",
+    "is",
+    "has_attribute",
+    "involves",
+    "leads_to",
+    "prevented_by",
+    "does_not_require"
+  ],
+  "human_generic|ritual_activity": [
+    "performs",
+    "devoted_to",
+    "benefited_by",
+    "benefits",
+    "benefits_from",
+    "expects"
+  ],
+  "ritual_activity|human_generic": [
+    "performs",
+    "involves",
+    "benefits",
+    "benefits_from",
+    "benefited_by",
+    "expects",
+    "performed_by"
+  ],
+  "ritual_activity|measure_quantity": [
+    "causes_increase",
+    "given_according_to"
+  ],
+  "ritual_activity|moon_phase": [
+    "should_be_performed_during",
+    "occurs_on",
+    "performed_when"
+  ],
+  "moon_phase|ritual_activity": [
+    "should_be_performed_during",
+    "occurs_on",
+    "performed_when"
+  ],
+  "action_process|measure_quantity": [
+    "given_according_to"
+  ],
+  "action_process|measurement_unit": [
+    "given_according_to",
+    "required_during"
+  ],
+  "measure_quantity|action_process": [
+    "given_according_to"
+  ],
+  "measure_quantity|ritual_activity": [
+    "given_according_to"
+  ],
+  "measurement_unit|action_process": [
+    "given_according_to",
+    "required_during"
+  ],
+  "human_individual|attribute": [
+    "told",
+    "had",
+    "famous_in",
+    "wife_of",
+    "asked"
+  ],
+  "attribute|human_individual": [
+    "told",
+    "desired_to_live_with",
+    "famous_in",
+    "wife_of",
+    "asked"
+  ],
+  "animal|deity": [
+    "becomes_purified_by",
+    "associated_with"
+  ],
+  "abstract_concept|festival": [
+    "occurs_on",
+    "awakens",
+    "pertains_to"
+  ],
+  "abstract_concept|special_date": [
+    "occurs_on"
+  ],
+  "mundane_activity|festival": [
+    "occurs_on",
+    "includes",
+    "involves",
+    "made_for"
+  ],
+  "mundane_activity|special_date": [
+    "occurs_on",
+    "mentioned_on"
+  ],
+  "deity|mundane_activity": [
+    "seen_by",
+    "is_greeted_on",
+    "born_during"
+  ],
+  "mundane_activity|deity": [
+    "seen_by",
+    "born_during"
+  ],
+  "festival|mundane_activity": [
+    "involves",
+    "includes",
+    "made_for",
+    "described_in"
+  ],
+  "special_date|mundane_activity": [
+    "involves",
+    "mentioned_on",
+    "described_in"
+  ],
+  "moon_phase|festival": [
+    "yields_same_benefits_as",
+    "occurs_on",
+    "occurs_during",
+    "commemorates_birth_of"
+  ],
+  "festival|moon_phase": [
+    "yields_same_benefits_as",
+    "occurs_on",
+    "occurs_during",
+    "commemorates_birth_of"
+  ],
+  "festival|celestial_phenomenon": [
+    "equivalent_to",
+    "excludes_observance"
+  ],
+  "ritual_activity|celestial_phenomenon": [
+    "equivalent_to",
+    "performed_at",
+    "prohibits",
+    "permissible_on"
+  ],
+  "deity|state": [
+    "born_during",
+    "possesses_state",
+    "lived_during"
+  ],
+  "mythical_living_being|Mythical_Entity": [
+    "born_during",
+    "appears_during",
+    "appoints"
+  ],
+  "mythical_living_being|mundane_activity": [
+    "born_during"
+  ],
+  "mythical_living_being|state": [
+    "born_during",
+    "possesses_state"
+  ],
+  "mundane_activity|mythical_living_being": [
+    "born_during"
+  ],
+  "state|deity": [
+    "born_during",
+    "possessed_by",
+    "lived_during",
+    "appeared_during"
+  ],
+  "state|mythical_living_being": [
+    "born_during",
+    "possessed_by"
+  ],
+  "mythical_living_being|measurement_unit": [
+    "occurred_during"
+  ],
+  "measurement_unit|mythical_living_being": [
+    "occurred_during"
+  ],
+  "Mythical_Entity|measurement_unit": [
+    "occurs_during",
+    "a_type_of"
+  ],
+  "mundane_activity|measurement_unit": [
+    "occurs_during"
+  ],
+  "state|measurement_unit": [
+    "occurs_during"
+  ],
+  "measurement_unit|Mythical_Entity": [
+    "occurs_during",
+    "a_type_of"
+  ],
+  "measurement_unit|mundane_activity": [
+    "occurs_during"
+  ],
+  "measurement_unit|state": [
+    "occurs_during"
+  ],
+  "festival|state": [
+    "describes_celebration_of",
+    "described_in_context_of"
+  ],
+  "special_date|state": [
+    "describes_celebration_of",
+    "described_in_context_of"
+  ],
+  "human_generic|deity": [
+    "is_ishtadev_of",
+    "have_doubt_about",
+    "has_attribute",
+    "has_mark",
+    "purifies_from_sins",
+    "celebrates"
+  ],
+  "deity|human_generic": [
+    "is_ishtadev_of",
+    "have_doubt_about",
+    "has_attribute",
+    "purifies_from_sins",
+    "celebrates"
+  ],
+  "human_generic|individual_figure": [
+    "worship"
+  ],
+  "individual_figure|human_generic": [
+    "worship"
+  ],
+  "individual_figure|deity": [
+    "is_ishtadev_for",
+    "asked",
+    "merged_into",
+    "is_avatar_of",
+    "attains",
+    "told_to"
+  ],
+  "generic_date|generic_date": [
+    "preferred_over",
+    "prohibited_with"
+  ],
+  "nakshatra|day": [
+    "restricted_for",
+    "occurs_on"
+  ],
+  "day|nakshatra": [
+    "restricted_for",
+    "occurs_on"
+  ],
+  "special_date|water_body": [
+    "associated_with"
+  ],
+  "water_body|special_date": [
+    "associated_with"
+  ],
+  "moon_phase|special_date": [
+    "worshipped_on",
+    "occurs_during",
+    "occurs_on",
+    "commemorates_birth_of"
+  ],
+  "mythical_living_being|special_date": [
+    "worshipped_on",
+    "occurs_on",
+    "commemorates_birth_of"
+  ],
+  "water_body|mundane_activity": [
+    "used_for",
+    "takes_place_in"
+  ],
+  "mundane_activity|water_body": [
+    "takes_place_in"
+  ],
+  "Mythical_Entity|action_process": [
+    "involves",
+    "a_type_of",
+    "discussed_in"
+  ],
+  "action_process|Mythical_Entity": [
+    "involves",
+    "a_type_of",
+    "discussed_in"
+  ],
+  "action_process|mundane_activity": [
+    "precedes",
+    "required_during",
+    "marks_beginning_of"
+  ],
+  "state|action_process": [
+    "occurs_during"
+  ],
+  "action_process|state": [
+    "occurs_during"
+  ],
+  "symptom_physical|disease": [
+    "treats"
+  ],
+  "deity|human_individual": [
+    "spoke_to",
+    "speaks_to",
+    "appeared_to",
+    "held_by",
+    "feeds_from"
+  ],
+  "human_individual|deity": [
+    "spoke_to",
+    "appeared_to",
+    "held",
+    "feeds"
+  ],
+  "attribute|plant": [
+    "bears",
+    "enhances"
+  ],
+  "avatar|festival": [
+    "celebrated_on",
+    "celebrated_for"
+  ],
+  "avatar|state": [
+    "celebrated_on",
+    "celebrated_for"
+  ],
+  "festival|avatar": [
+    "celebrated_on",
+    "celebrated_for"
+  ],
+  "state|avatar": [
+    "celebrated_on",
+    "celebrated_for"
+  ],
+  "state|festival": [
+    "described_in_context_of"
+  ],
+  "state|special_date": [
+    "described_in_context_of"
+  ],
+  "celestial_phenomenon|ritual_activity": [
+    "performed_at",
+    "prohibits",
+    "permissible_on",
+    "prohibited_on"
+  ],
+  "season|festival": [
+    "occurs_during",
+    "described_in"
+  ],
+  "festival|season": [
+    "occurs_during",
+    "described_in"
+  ],
+  "avatar|season": [
+    "associated_with",
+    "appears_during",
+    "appears_near"
+  ],
+  "avatar|Mythical_Entity": [
+    "appears_during",
+    "appears_near"
+  ],
+  "season|avatar": [
+    "appears_near"
+  ],
+  "special_date|moon_phase": [
+    "occurs_during",
+    "occurs_on",
+    "commemorates_birth_of"
+  ],
+  "measurement_unit|being_class": [
+    "occurred_during",
+    "required_during"
+  ],
+  "being_class|measurement_unit": [
+    "occurred_during",
+    "required_during"
+  ],
+  "attribute|being_class": [
+    "attribute_of",
+    "is_attribute_of",
+    "is_of_class"
+  ],
+  "being_class|attribute": [
+    "attribute_of"
+  ],
+  "being_class|action_process": [
+    "was_destroyed",
+    "needed_for"
+  ],
+  "action_process|being_class": [
+    "needed_for",
+    "destroyed_by"
+  ],
+  "generic_date|individual_figure": [
+    "indicates_event_caused_by"
+  ],
+  "generic_date|mythical_living_being": [
+    "indicates_event_caused_by"
+  ],
+  "day|being_class": [
+    "necessary_day_for"
+  ],
+  "being_class|day": [
+    "necessary_day_for"
+  ],
+  "state|day": [
+    "marked_by"
+  ],
+  "nakshatra|state": [
+    "contributes_to"
+  ],
+  "state|nakshatra": [
+    "contributes_to"
+  ],
+  "day|state": [
+    "marked_by"
+  ],
+  "nakshatra|Mythical_Entity": [
+    "corresponds_to",
+    "time_not_returning"
+  ],
+  "Mythical_Entity|nakshatra": [
+    "corresponds_to",
+    "time_not_returning"
+  ],
+  "knowledge_linguistic|mythical_living_being": [
+    "is_instance_of",
+    "is_an_avatar_for"
+  ],
+  "mythical_living_being|knowledge_linguistic": [
+    "is_instance_of",
+    "is_avatar_of"
+  ],
+  "avatar|moon_phase": [
+    "is_instance_of"
+  ],
+  "knowledge_linguistic|moon_phase": [
+    "is_instance_of",
+    "described_in",
+    "manifests_with",
+    "manifests_during",
+    "manifests_after",
+    "explains"
+  ],
+  "mythical_living_being|moon_phase": [
+    "is_instance_of",
+    "shared_avatar_of"
+  ],
+  "moon_phase|avatar": [
+    "is_avatar_of"
+  ],
+  "moon_phase|knowledge_linguistic": [
+    "is_avatar_of",
+    "described_in",
+    "manifests_with",
+    "manifests_during"
+  ],
+  "moon_phase|mythical_living_being": [
+    "is_avatar_of",
+    "shared_avatar_of"
+  ],
+  "knowledge_linguistic|avatar": [
+    "is_instance_of",
+    "is_avatar_of"
+  ],
+  "avatar|knowledge_linguistic": [
+    "is_instance_of",
+    "is_avatar_of"
+  ],
+  "human_individual|avatar": [
+    "asked",
+    "observed_vow"
+  ],
+  "avatar|human_individual": [
+    "asked_by",
+    "asked",
+    "observed_vow"
+  ],
+  "human_individual|ritual_activity": [
+    "devoted_to",
+    "observed",
+    "performed",
+    "involves"
+  ],
+  "ritual_activity|human_individual": [
+    "observed",
+    "devoted_to",
+    "performed"
+  ],
+  "deity|individual_figure": [
+    "asked_by",
+    "asked",
+    "merged_into",
+    "attains",
+    "told_to"
+  ],
+  "individual_figure|abstract_concept": [
+    "asked_about"
+  ],
+  "mythical_living_being|abstract_concept": [
+    "asked_about"
+  ],
+  "individual_figure|measure_quantity": [
+    "belongs_to"
+  ],
+  "mythical_living_being|measure_quantity": [
+    "belongs_to"
+  ],
+  "human_individual|Mythical_Entity": [
+    "famous_in",
+    "performs"
+  ],
+  "Mythical_Entity|human_individual": [
+    "famous_in",
+    "performs"
+  ],
+  "being_class|human_individual": [
+    "performs_sacrifice_for",
+    "asks_about_protection_from",
+    "is_avatar_of"
+  ],
+  "being_class|ritual_activity": [
+    "performed_for",
+    "transformed_into",
+    "conducted_for"
+  ],
+  "ritual_activity|being_class": [
+    "conducted_for",
+    "transformed_into",
+    "performed_for"
+  ],
+  "human_individual|human_generic": [
+    "wife_of"
+  ],
+  "human_generic|human_individual": [
+    "wife_of"
+  ],
+  "ritual_activity|abstract_concept": [
+    "leads_to",
+    "does_not_require"
+  ],
+  "abstract_concept|ritual_activity": [
+    "leads_to",
+    "does_not_require"
+  ],
+  "knowledge_linguistic|individual_figure": [
+    "is_an_avatar_for"
+  ],
+  "Mythical_Entity|human_generic": [
+    "abstain_from",
+    "destroys",
+    "gives",
+    "disbelieve_in",
+    "freed_from"
+  ],
+  "Mythical_Entity|water_body": [
+    "for_bathing_in",
+    "affects"
+  ],
+  "knowledge_linguistic|Mythical_Entity": [
+    "destroys",
+    "has_summary"
+  ],
+  "human_generic|Mythical_Entity": [
+    "destroys",
+    "gives",
+    "disbelieve_in",
+    "freed_from"
+  ],
+  "measurement_unit|festival": [
+    "includes"
+  ],
+  "action_process|generic_date": [
+    "occurs_during",
+    "condition_for",
+    "occurs_on",
+    "prohibited_in"
+  ],
+  "festival|month": [
+    "occurs_in"
+  ],
+  "month|festival": [
+    "occurs_in"
+  ],
+  "measurement_unit|day": [
+    "marks"
+  ],
+  "attribute|measurement_unit": [
+    "is_a"
+  ],
+  "day|attribute": [
+    "defines"
+  ],
+  "attribute|day": [
+    "occurs_on"
+  ],
+  "festival|water_body": [
+    "involves_activity_in"
+  ],
+  "water_body|festival": [
+    "involves_activity_in"
+  ],
+  "water_body|water_body": [
+    "alternative_of"
+  ],
+  "ritual_activity|water_body": [
+    "performed_in",
+    "provides_benefits_of"
+  ],
+  "water_body|ritual_activity": [
+    "related_to",
+    "includes",
+    "provides_benefits_of"
+  ],
+  "landform|festival": [
+    "worshipped_on"
+  ],
+  "deity|water_body": [
+    "worshipped_with"
+  ],
+  "water_body|deity": [
+    "worshipped_with"
+  ],
+  "landform|ritual_activity": [
+    "worshipped"
+  ],
+  "water_body|action_process": [
+    "purifies"
+  ],
+  "action_process|water_body": [
+    "purifies"
+  ],
+  "water_body|attribute": [
+    "has_attribute"
+  ],
+  "attribute|water_body": [
+    "has_attribute"
+  ],
+  "water_body|human_generic": [
+    "yields_benefits_of"
+  ],
+  "human_generic|water_body": [
+    "yields_benefits_of"
+  ],
+  "water_body|knowledge_linguistic": [
+    "described_in"
+  ],
+  "knowledge_linguistic|water_body": [
+    "associated_with"
+  ],
+  "human_generic|human_generic": [
+    "expected_donation_from"
+  ],
+  "human_individual|animal": [
+    "states_about"
+  ],
+  "animal|attribute": [
+    "given_to",
+    "embodied_in"
+  ],
+  "attribute|animal": [
+    "given_to",
+    "embodied_in"
+  ],
+  "festival|mythical_living_being": [
+    "occurs_on",
+    "worshipped_on",
+    "occurs_during",
+    "commemorates_birth_of"
+  ],
+  "special_date|mythical_living_being": [
+    "occurs_on",
+    "worshipped_on",
+    "occurs_during",
+    "commemorates_birth_of"
+  ],
+  "human_individual|human_individual": [
+    "son_of"
+  ],
+  "human_individual|generic_date": [
+    "mentions_date"
+  ],
+  "generic_date|human_individual": [
+    "mentions_date"
+  ],
+  "mythical_living_being|festival": [
+    "worshipped_on",
+    "occurs_on",
+    "commemorates_birth_of"
+  ],
+  "animal|human_generic": [
+    "cannot_affect"
+  ],
+  "human_generic|animal": [
+    "cannot_affect"
+  ],
+  "deity|animal": [
+    "represented_in"
+  ],
+  "Mythical_Entity|animal": [
+    "embodied_in"
+  ],
+  "animal|Mythical_Entity": [
+    "embodied_in"
+  ],
+  "animal|ritual_activity": [
+    "worshipped_through",
+    "given_as"
+  ],
+  "ritual_activity|animal": [
+    "involves",
+    "given_as"
+  ],
+  "generic_date|attribute": [
+    "is_sacred",
+    "signifies",
+    "celebrates_on"
+  ],
+  "generic_date|being_class": [
+    "rare_for"
+  ],
+  "being_class|generic_date": [
+    "rare_for"
+  ],
+  "ritual_activity|month": [
+    "occurs_during"
+  ],
+  "month|ritual_activity": [
+    "occurs_on",
+    "occurs_during"
+  ],
+  "action_process|moon_phase": [
+    "guides",
+    "occurs_during",
+    "performed_when"
+  ],
+  "special_date|celestial_phenomenon": [
+    "excludes_upakarma",
+    "excluded_during_upakarma",
+    "excludes_observance"
+  ],
+  "human_generic|measure_quantity": [
+    "gives"
+  ],
+  "mundane_activity|moon_phase": [
+    "occurs_during",
+    "happens_at"
+  ],
+  "nakshatra|month": [
+    "occurs_in"
+  ],
+  "action_process|month": [
+    "occurs_in"
+  ],
+  "mundane_activity|month": [
+    "occurs_in"
+  ],
+  "month|action_process": [
+    "occurs_in"
+  ],
+  "month|mundane_activity": [
+    "occurs_in"
+  ],
+  "mythical_living_being|month": [
+    "occurs_in",
+    "happens_within"
+  ],
+  "knowledge_linguistic|action_process": [
+    "involves",
+    "has_summary"
+  ],
+  "attribute|measure_quantity": [
+    "protects"
+  ],
+  "measure_quantity|attribute": [
+    "symbolizes"
+  ],
+  "human_individual|festival": [
+    "asks_about",
+    "is_avatar_of"
+  ],
+  "festival|human_individual": [
+    "asks_about",
+    "is_avatar_of"
+  ],
+  "human_individual|being_class": [
+    "asks_about_protection_from",
+    "avatar_of"
+  ],
+  "human_generic|festival": [
+    "provides_protection_for",
+    "celebrates"
+  ],
+  "festival|being_class": [
+    "protects_from"
+  ],
+  "being_class|festival": [
+    "protects_from"
+  ],
+  "festival|disease": [
+    "protects_from"
+  ],
+  "disease|festival": [
+    "protects_from"
+  ],
+  "human_generic|being_class": [
+    "protected_from"
+  ],
+  "being_class|human_generic": [
+    "protected_from"
+  ],
+  "being_class|being_class": [
+    "fought_with",
+    "fought_against"
+  ],
+  "being_class|knowledge_linguistic": [
+    "became_devoid_of"
+  ],
+  "ritual_activity|nakshatra": [
+    "can_be_performed_in",
+    "performed_when",
+    "prohibits"
+  ],
+  "nakshatra|ritual_activity": [
+    "can_be_performed_in",
+    "performed_when",
+    "prohibits",
+    "occurs_with",
+    "can_be_performed_when"
+  ],
+  "nakshatra|generic_date": [
+    "alternative_date",
+    "influences_date_of",
+    "considered_with"
+  ],
+  "generic_date|nakshatra": [
+    "influences_date_of",
+    "alternative_date",
+    "influenced_by",
+    "considered_with"
+  ],
+  "ritual_activity|season": [
+    "conducted_during"
+  ],
+  "season|ritual_activity": [
+    "conducted_during"
+  ],
+  "remedy|season": [
+    "occurs_during"
+  ],
+  "season|remedy": [
+    "sprouts_during"
+  ],
+  "remedy|month": [
+    "occurs_during",
+    "do_not_grow_in"
+  ],
+  "remedy|festival": [
+    "celebrates"
+  ],
+  "remedy|plant": [
+    "derived_from"
+  ],
+  "plant|remedy": [
+    "derived_from"
+  ],
+  "month|remedy": [
+    "do_not_grow_in"
+  ],
+  "month|nakshatra": [
+    "occurs_in"
+  ],
+  "festival|abstract_concept": [
+    "awakens",
+    "defines",
+    "involves"
+  ],
+  "animal|animal": [
+    "includes"
+  ],
+  "secretion_external|animal": [
+    "urine_of",
+    "urine_beneficial_for"
+  ],
+  "animal|secretion_external": [
+    "urine_of",
+    "urine_beneficial_for"
+  ],
+  "animal|remedy": [
+    "used_in"
+  ],
+  "human_generic|secretion_external": [
+    "produces"
+  ],
+  "human_generic|remedy": [
+    "contributes_to"
+  ],
+  "secretion_external|remedy": [
+    "used_in"
+  ],
+  "remedy|secretion_external": [
+    "used_in"
+  ],
+  "attribute|secretion_external": [
+    "is_beneficial"
+  ],
+  "disease|disease": [
+    "affected_by"
+  ],
+  "month|mythical_living_being": [
+    "happens_within"
+  ],
+  "action_process|knowledge_linguistic": [
+    "has_summary"
+  ],
+  "moon_phase|mundane_activity": [
+    "touches"
+  ],
+  "moon_phase|action_process": [
+    "should_be_performed_during"
+  ],
+  "action_process|nakshatra": [
+    "occurs_with",
+    "performed_when"
+  ],
+  "measurement_unit|nakshatra": [
+    "occurs_with"
+  ],
+  "mundane_activity|nakshatra": [
+    "occurs_with"
+  ],
+  "nakshatra|action_process": [
+    "occurs_with",
+    "can_be_performed_when"
+  ],
+  "nakshatra|measurement_unit": [
+    "occurs_with"
+  ],
+  "nakshatra|mundane_activity": [
+    "occurs_with"
+  ],
+  "generic_date|action_process": [
+    "occurs_during",
+    "performed_on",
+    "triggered_by",
+    "prohibited_in",
+    "occurs_on"
+  ],
+  "Mythical_Entity|moon_phase": [
+    "starts_after",
+    "manifests_with",
+    "manifests_during",
+    "manifests_after"
+  ],
+  "abstract_concept|season": [
+    "is_named_as"
+  ],
+  "season|abstract_concept": [
+    "is_named_as"
+  ],
+  "season|water_body": [
+    "affects"
+  ],
+  "water_body|vegetation_region": [
+    "waters"
+  ],
+  "mythical_living_being|season": [
+    "appears_during"
+  ],
+  "Mythical_Entity|plant": [
+    "enhances"
+  ],
+  "season|plant": [
+    "enhances"
+  ],
+  "plant|Mythical_Entity": [
+    "enhances"
+  ],
+  "plant|season": [
+    "enhances"
+  ],
+  "plant|attribute": [
+    "bears",
+    "enhances"
+  ],
+  "attribute|moon_phase": [
+    "manifests_with",
+    "manifests_during",
+    "has_attribute"
+  ],
+  "moon_phase|attribute": [
+    "manifests_with",
+    "occurs_during",
+    "manifests_during",
+    "has_attribute"
+  ],
+  "moon_phase|Mythical_Entity": [
+    "manifests_with",
+    "manifests_during"
+  ],
+  "moon_phase|moon_phase": [
+    "occurs_during"
+  ],
+  "state|moon_phase": [
+    "characterized_by"
+  ],
+  "moon_phase|state": [
+    "characterized_by"
+  ],
+  "metaphysical_entity|metaphysical_entity": [
+    "identified_as"
+  ],
+  "metaphysical_entity|attribute": [
+    "felt_due_to",
+    "necessitated_by"
+  ],
+  "attribute|metaphysical_entity": [
+    "felt_due_to"
+  ],
+  "knowledge_linguistic|generic_date": [
+    "occurs_on"
+  ],
+  "generic_date|knowledge_linguistic": [
+    "occurs_on",
+    "marks_beginning_of"
+  ],
+  "attribute|generic_date": [
+    "signifies",
+    "celebrates_on"
+  ],
+  "ritual_activity|metaphysical_entity": [
+    "appeared_during"
+  ],
+  "metaphysical_entity|ritual_activity": [
+    "appeared_during"
+  ],
+  "human_individual|metaphysical_entity": [
+    "present_within"
+  ],
+  "metaphysical_entity|human_individual": [
+    "present_within"
+  ],
+  "month|attribute": [
+    "improves"
+  ],
+  "attribute|month": [
+    "improves"
+  ],
+  "human_individual|moon_phase": [
+    "spoke_to",
+    "feeds"
+  ],
+  "human_individual|mythical_living_being": [
+    "spoke_to",
+    "held",
+    "feeds"
+  ],
+  "moon_phase|human_individual": [
+    "spoke_to",
+    "feeds_from"
+  ],
+  "mythical_living_being|human_individual": [
+    "spoke_to",
+    "held_by",
+    "feeds_from"
+  ],
+  "human_individual|special_date": [
+    "asks_about"
+  ],
+  "special_date|human_individual": [
+    "asks_about"
+  ],
+  "moon_phase|human_generic": [
+    "has_attribute"
+  ],
+  "human_generic|moon_phase": [
+    "has_attribute"
+  ],
+  "being_class|atmospheric_region": [
+    "appearing_in"
+  ],
+  "human_individual|individual_figure": [
+    "avatar_of"
+  ],
+  "individual_figure|human_individual": [
+    "avatar_of"
+  ],
+  "individual_figure|Mythical_Entity": [
+    "avatar_of"
+  ],
+  "Mythical_Entity|individual_figure": [
+    "avatar_of"
+  ],
+  "deity|nakshatra": [
+    "associated_with"
+  ],
+  "generic_date|human_generic": [
+    "celebrates_on"
+  ],
+  "human_generic|generic_date": [
+    "celebrates_on"
+  ],
+  "festival|human_generic": [
+    "celebrates"
+  ],
+  "animal|action_process": [
+    "given_as"
+  ],
+  "action_process|animal": [
+    "given_as"
+  ]
+}

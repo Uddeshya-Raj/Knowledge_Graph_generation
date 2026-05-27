@@ -1,0 +1,107 @@
+
+
+Target Entity Extraction:
+Extract the following categories of words to serve as "Nodes" in a Knowledge Graph. Use the identification tips to distinguish them from standard adjectives or verbs.
+
+
+1. Sangya (संज्ञा - Nouns)
+    Definition: Names of persons, places, objects, or abstract concepts.
+
+    Identification Tips:
+
+    The Post-position (Karak) Test: Look for words immediately followed by markers like ने, को, से, का, के, की, में, पर. These are almost always nouns.
+
+    The Subject/Object Test: Identify the Karta (Subject) or Karma (Object) of the sentence. These are your primary nodes.
+
+2. Kriyarthak Sangya (क्रियार्थक संज्ञा - Gerunds)
+    Definition: Verb infinitives ending in '-ना' used as a concept or subject rather than a temporal action.
+
+    Identification Tips:
+
+    Substitution: If you can replace the word with "काम" (Work) and the sentence remains logical, it is a Gerund.
+
+    Example: In "टहलना अच्छा है," 'टहलना' is a node. In "वह टहल रहा है," it is an action; ignore it.
+
+3. Visheshya-Visheshan (विशेष्य-विशेषण - Substantive Adjectives)
+    Definition: Qualitative adjectives that stand alone without a following noun to represent a specific class or group.
+
+    Identification Tips:
+
+    The "Omission" Rule: If the adjective is acting as the subject (e.g., "विद्वान का आदर करो" — Respect the learned), the adjective itself is the Entity Node.
+
+    Plurality: In Hindi, when adjectives are used as nouns, they often take plural endings (e.g., "अमीरों," "गरीबों").
+
+4. Samasik Pad (सामासिक पद - Compounds)
+    Definition: Multi-word combinations (Sanskritized or Hindi) that represent a single, atomic semantic concept.
+
+    Identification Tips:
+
+    Atomicity: If splitting the words changes or dilutes the specific meaning, or if the compound word is a name (e.g., 'राष्ट्रपिता', 'न्यायालय', 'यथाशक्ति', 'संवत्सरारस्भ'), treat the entire compound as a single node.
+
+5. Sanskrit Shlokas and Mantras
+    Definition: Complete or partial Sanskrit verses, invocations, chants, or sutras embedded within the Hindi text.
+
+    Identification Tips:
+
+    Contextual Markers: Look for text immediately preceded or followed by indicator words like 'मंत्र' (Mantra), 'श्लोक' (Shloka), 'स्तुति' (Stuti), 'सूत्र' (Sutra), or 'पाठ' (Recitation).
+
+    The Absolute Atomicity Rule: Do NOT break the shloka or mantra into individual Sanskrit words. Treat the entire continuous phrase, chant, or verse as a single, intact entity node.
+
+Rules: 
+1. All extracted entities must be converted to their singular, root dictionary form (मूल शब्द). For example, if the text says 'विद्वानों', extract 'विद्वान'. If it says 'वानरों', extract 'वानर'
+2. For any entity recognised using the above definitions extract the most specific version/kind/type of that entity that is being discussed. For example instead of extracting just पूजा extract दुर्गा पूजा or instead of extracting just व्रत extract रामनवमी व्रत.
+
+Output Format
+Provide the results strictly in a valid JSON format that can be programmatically parsed. Do not include any conversational text, introductory statements, or markdown code block formatting (like ```json) around the output. Use the following schema:
+
+Input:
+{
+    "resolved_sentences": [
+        "String: Simplified and resolved sentence 1",
+        "String: Simplified and resolved sentence 2"
+    ]
+}
+
+Output:
+{
+    "extracted_entities": [
+        {
+            "sentence": "Simplified and resolved sentence 1",
+            "entities": ["entity1", "entity2", ...]
+        },
+        {
+            "sentence": "Simplified and resolved sentence 2",
+            "entities": ["entity5", "entity6", ...]
+        }
+    ]
+}
+
+
+Example:
+
+Input:
+{
+    "resolved_sentences": [
+        "क्रोध मनुष्य का शत्रु है।",
+        "क्रोध रूपी विकार को त्यागें।",
+        "ऋषि ने शांति के लिए 'असतो मा सद्गमय' मंत्र का उच्चारण किया।"
+    ]
+}
+
+Output:
+{
+    "extracted_entities": [
+        {
+            "sentence": "क्रोध मनुष्य का शत्रु है।",
+            "entities": ["क्रोध", "मनुष्य", "शत्रु"]
+        },
+        {
+            "sentence": "क्रोध रूपी विकार को त्यागें।",
+            "entities": ["क्रोध", "विकार"]
+        },
+        {
+            "sentence": "ऋषि ने शांति के लिए 'असतो मा सद्गमय' मंत्र का उच्चारण किया।",
+            "entities": ["ऋषि", "शांति", "असतो मा सद्गमय", "मंत्र", "उच्चारण"]
+        }
+    ]
+}
